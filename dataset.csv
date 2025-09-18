@@ -1,0 +1,721 @@
+index,Unidades da Federacao,Unidade,Produto,Ano,Producao
+0,Acre,(mil m3),Etanol anidro e hidratado,2014,0
+1,Alagoas,(mil barris),LGN,2014,51600
+2,Alagoas,(mil barris),Petroleo,2014,26690
+3,Alagoas,(mil m3),Etanol anidro e hidratado,2014,48525
+4,Alagoas,(milhoes de m3),Gas Natural,2014,5353
+5,Amazonas,(mil barris),LGN,2014,60850
+6,Amazonas,(mil barris),Petroleo,2014,102220
+7,Amazonas,(mil m3),Etanol anidro e hidratado,2014,292
+8,Amazonas,(milhoes de m3),Gas Natural,2014,47038
+9,Bahia,(m3),Biodiesel,2014,1601920
+10,Bahia,(mil barris),LGN,2014,14840
+11,Bahia,(mil barris),Petroleo,2014,191920
+12,Bahia,(mil m3),Etanol anidro e hidratado,2014,24029
+13,Bahia,(milhoes de m3),Gas Natural,2014,30967
+14,Ceara,(m3),Biodiesel,2014,729840
+15,Ceara,(m3),Biometano,2014,0
+16,Ceara,(mil barris),LGN,2014,5700
+17,Ceara,(mil barris),Petroleo,2014,66810
+18,Ceara,(mil m3),Etanol anidro e hidratado,2014,913
+19,Ceara,(milhoes de m3),Gas Natural,2014,328
+20,Espirito Santo,(mil barris),LGN,2014,6140
+21,Espirito Santo,(mil barris),Petroleo,2014,1339740
+22,Espirito Santo,(mil m3),Etanol anidro e hidratado,2014,16235
+23,Espirito Santo,(milhoes de m3),Gas Natural,2014,47495
+24,Goias,(m3),Biodiesel,2014,6438370
+25,Goias,(mil m3),Etanol anidro e hidratado,2014,426903
+26,Maranhao,(mil barris),Petroleo,2014,4300
+27,Maranhao,(mil m3),Etanol anidro e hidratado,2014,17915
+28,Maranhao,(milhoes de m3),Gas Natural,2014,19684
+29,Mato Grosso,(m3),Biodiesel,2014,6111080
+30,Mato Grosso,(mil m3),Etanol anidro e hidratado,2014,113204
+31,Mato Grosso do Sul,(m3),Biodiesel,2014,2172970
+32,Mato Grosso do Sul,(mil m3),Etanol anidro e hidratado,2014,234974
+33,Minas Gerais,(m3),Biodiesel,2014,832830
+34,Minas Gerais,(mil m3),Etanol anidro e hidratado,2014,267628
+35,Para,(m3),Biodiesel,2014,0
+36,Para,(mil m3),Etanol anidro e hidratado,2014,4215
+37,Paraiba,(mil m3),Etanol anidro e hidratado,2014,3757
+38,Parana,(m3),Biodiesel,2014,3192220
+39,Parana,(mil m3),Etanol anidro e hidratado,2014,157946
+40,Parana,(milhoes de m3),Gas Natural,2014,0
+41,Pernambuco,(mil m3),Etanol anidro e hidratado,2014,33606
+42,Piaui,(m3),Biodiesel,2014,0
+43,Piaui,(mil m3),Etanol anidro e hidratado,2014,3251
+44,Rio Grande do Norte,(m3),Biodiesel,2014,0
+45,Rio Grande do Norte,(mil barris),LGN,2014,13380
+46,Rio Grande do Norte,(mil barris),Petroleo,2014,209620
+47,Rio Grande do Norte,(mil m3),Etanol anidro e hidratado,2014,7324
+48,Rio Grande do Norte,(milhoes de m3),Gas Natural,2014,4899
+49,Rio Grande do Sul,(m3),Biodiesel,2014,9736470
+50,Rio Grande do Sul,(mil m3),Etanol anidro e hidratado,2014,44
+51,Rio de Janeiro,(m3),Biodiesel,2014,172620
+52,Rio de Janeiro,(m3),Biometano,2014,0
+53,Rio de Janeiro,(mil barris),LGN,2014,151770
+54,Rio de Janeiro,(mil barris),Petroleo,2014,5632320
+55,Rio de Janeiro,(mil m3),Etanol anidro e hidratado,2014,8849
+56,Rio de Janeiro,(milhoes de m3),Gas Natural,2014,110974
+57,Rondonia,(m3),Biodiesel,2014,109770
+58,Rondonia,(mil m3),Etanol anidro e hidratado,2014,1277
+59,Santa Catarina,(m3),Biodiesel,2014,684520
+60,Sao Paulo,(m3),Biodiesel,2014,1703450
+61,Sao Paulo,(m3),Biometano,2014,0
+62,Sao Paulo,(mil barris),LGN,2014,15940
+63,Sao Paulo,(mil barris),Petroleo,2014,592350
+64,Sao Paulo,(mil m3),Etanol anidro e hidratado,2014,1387149
+65,Sao Paulo,(milhoes de m3),Gas Natural,2014,41631
+66,Sergipe,(mil barris),LGN,2014,10840
+67,Sergipe,(mil barris),Petroleo,2014,149720
+68,Sergipe,(mil m3),Etanol anidro e hidratado,2014,11154
+69,Sergipe,(milhoes de m3),Gas Natural,2014,10580
+70,Tocantins,(m3),Biodiesel,2014,736040
+71,Tocantins,(mil m3),Etanol anidro e hidratado,2014,18072
+72,Acre,(mil m3),Etanol anidro e hidratado,2015,451
+73,Alagoas,(mil barris),LGN,2015,44800
+74,Alagoas,(mil barris),Petroleo,2015,25260
+75,Alagoas,(mil m3),Etanol anidro e hidratado,2015,55456
+76,Alagoas,(milhoes de m3),Gas Natural,2015,4274
+77,Amazonas,(mil barris),LGN,2015,63660
+78,Amazonas,(mil barris),Petroleo,2015,96010
+79,Amazonas,(mil m3),Etanol anidro e hidratado,2015,58
+80,Amazonas,(milhoes de m3),Gas Natural,2015,50602
+81,Bahia,(m3),Biodiesel,2015,2254840
+82,Bahia,(mil barris),LGN,2015,14730
+83,Bahia,(mil barris),Petroleo,2015,38190
+84,Bahia,(mil m3),Etanol anidro e hidratado,2015,22226
+85,Bahia,(milhoes de m3),Gas Natural,2015,30408
+86,Ceara,(m3),Biodiesel,2015,874340
+87,Ceara,(m3),Biometano,2015,0
+88,Ceara,(mil barris),LGN,2015,2800
+89,Ceara,(mil barris),Petroleo,2015,72310
+90,Ceara,(mil m3),Etanol anidro e hidratado,2015,146
+91,Ceara,(milhoes de m3),Gas Natural,2015,275
+92,Espirito Santo,(mil barris),LGN,2015,53820
+93,Espirito Santo,(mil barris),Petroleo,2015,1416470
+94,Espirito Santo,(mil m3),Etanol anidro e hidratado,2015,17873
+95,Espirito Santo,(milhoes de m3),Gas Natural,2015,41144
+96,Goias,(m3),Biodiesel,2015,6952520
+97,Goias,(mil m3),Etanol anidro e hidratado,2015,480935
+98,Maranhao,(mil barris),Petroleo,2015,400
+99,Maranhao,(mil m3),Etanol anidro e hidratado,2015,18698
+100,Maranhao,(milhoes de m3),Gas Natural,2015,15653
+101,Mato Grosso,(m3),Biodiesel,2015,8456710
+102,Mato Grosso,(mil m3),Etanol anidro e hidratado,2015,131632
+103,Mato Grosso do Sul,(m3),Biodiesel,2015,2074840
+104,Mato Grosso do Sul,(mil m3),Etanol anidro e hidratado,2015,271233
+105,Minas Gerais,(m3),Biodiesel,2015,922580
+106,Minas Gerais,(mil m3),Etanol anidro e hidratado,2015,320292
+107,Para,(m3),Biodiesel,2015,0
+108,Para,(mil m3),Etanol anidro e hidratado,2015,4093
+109,Paraiba,(mil m3),Etanol anidro e hidratado,2015,44706
+110,Parana,(m3),Biodiesel,2015,3636890
+111,Parana,(mil m3),Etanol anidro e hidratado,2015,146239
+112,Parana,(milhoes de m3),Gas Natural,2015,0
+113,Pernambuco,(mil m3),Etanol anidro e hidratado,2015,44294
+114,Piaui,(m3),Biodiesel,2015,0
+115,Piaui,(mil m3),Etanol anidro e hidratado,2015,3268
+116,Rio Grande do Norte,(m3),Biodiesel,2015,17990
+117,Rio Grande do Norte,(mil barris),LGN,2015,11440
+118,Rio Grande do Norte,(mil barris),Petroleo,2015,208410
+119,Rio Grande do Norte,(mil m3),Etanol anidro e hidratado,2015,9826
+120,Rio Grande do Norte,(milhoes de m3),Gas Natural,2015,4267
+121,Rio Grande do Sul,(m3),Biodiesel,2015,11143070
+122,Rio Grande do Sul,(mil m3),Etanol anidro e hidratado,2015,379
+123,Rio de Janeiro,(m3),Biodiesel,2015,187040
+124,Rio de Janeiro,(m3),Biometano,2015,0
+125,Rio de Janeiro,(mil barris),LGN,2015,143190
+126,Rio de Janeiro,(mil barris),Petroleo,2015,5969240
+127,Rio de Janeiro,(mil m3),Etanol anidro e hidratado,2015,576
+128,Rio de Janeiro,(milhoes de m3),Gas Natural,2015,140620
+129,Rondonia,(m3),Biodiesel,2015,41400
+130,Rondonia,(mil m3),Etanol anidro e hidratado,2015,1299
+131,Santa Catarina,(m3),Biodiesel,2015,344890
+132,Sao Paulo,(m3),Biodiesel,2015,1844730
+133,Sao Paulo,(m3),Biometano,2015,0
+134,Sao Paulo,(mil barris),LGN,2015,26130
+135,Sao Paulo,(mil barris),Petroleo,2015,899680
+136,Sao Paulo,(mil m3),Etanol anidro e hidratado,2015,1383005
+137,Sao Paulo,(milhoes de m3),Gas Natural,2015,55384
+138,Sergipe,(mil barris),LGN,2015,89900
+139,Sergipe,(mil barris),Petroleo,2015,121630
+140,Sergipe,(mil m3),Etanol anidro e hidratado,2015,16989
+141,Sergipe,(milhoes de m3),Gas Natural,2015,8638
+142,Tocantins,(m3),Biodiesel,2015,620850
+143,Tocantins,(mil m3),Etanol anidro e hidratado,2015,18981
+144,Acre,(mil m3),Etanol anidro e hidratado,2016,367
+145,Alagoas,(mil barris),LGN,2016,5980
+146,Alagoas,(mil barris),Petroleo,2016,20490
+147,Alagoas,(mil m3),Etanol anidro e hidratado,2016,36649
+148,Alagoas,(milhoes de m3),Gas Natural,2016,4183
+149,Amazonas,(mil barris),LGN,2016,57940
+150,Amazonas,(mil barris),Petroleo,2016,85610
+151,Amazonas,(mil m3),Etanol anidro e hidratado,2016,55
+152,Amazonas,(milhoes de m3),Gas Natural,2016,51062
+153,Bahia,(m3),Biodiesel,2016,2452150
+154,Bahia,(mil barris),LGN,2016,13970
+155,Bahia,(mil barris),Petroleo,2016,158040
+156,Bahia,(mil m3),Etanol anidro e hidratado,2016,12607
+157,Bahia,(milhoes de m3),Gas Natural,2016,27243
+158,Ceara,(m3),Biodiesel,2016,593900
+159,Ceara,(m3),Biometano,2016,0
+160,Ceara,(mil barris),LGN,2016,0
+161,Ceara,(mil barris),Petroleo,2016,75980
+162,Ceara,(mil m3),Etanol anidro e hidratado,2016,524
+163,Ceara,(milhoes de m3),Gas Natural,2016,374
+164,Espirito Santo,(mil barris),LGN,2016,57890
+165,Espirito Santo,(mil barris),Petroleo,2016,144180
+166,Espirito Santo,(mil m3),Etanol anidro e hidratado,2016,7531
+167,Espirito Santo,(milhoes de m3),Gas Natural,2016,38947
+168,Goias,(m3),Biodiesel,2016,6499220
+169,Goias,(mil m3),Etanol anidro e hidratado,2016,458421
+170,Maranhao,(mil barris),Petroleo,2016,1400
+171,Maranhao,(mil m3),Etanol anidro e hidratado,2016,1280
+172,Maranhao,(milhoes de m3),Gas Natural,2016,19263
+173,Mato Grosso,(m3),Biodiesel,2016,8186690
+174,Mato Grosso,(mil m3),Etanol anidro e hidratado,2016,121165
+175,Mato Grosso do Sul,(m3),Biodiesel,2016,1782370
+176,Mato Grosso do Sul,(mil m3),Etanol anidro e hidratado,2016,259994
+177,Minas Gerais,(m3),Biodiesel,2016,947980
+178,Minas Gerais,(mil m3),Etanol anidro e hidratado,2016,269943
+179,Para,(m3),Biodiesel,2016,0
+180,Para,(mil m3),Etanol anidro e hidratado,2016,3315
+181,Paraiba,(mil m3),Etanol anidro e hidratado,2016,36023
+182,Parana,(m3),Biodiesel,2016,3926790
+183,Parana,(mil m3),Etanol anidro e hidratado,2016,147369
+184,Parana,(milhoes de m3),Gas Natural,2016,0
+185,Pernambuco,(mil m3),Etanol anidro e hidratado,2016,34787
+186,Piaui,(m3),Biodiesel,2016,0
+187,Piaui,(mil m3),Etanol anidro e hidratado,2016,2161
+188,Rio Grande do Norte,(m3),Biodiesel,2016,0
+189,Rio Grande do Norte,(mil barris),LGN,2016,9830
+190,Rio Grande do Norte,(mil barris),Petroleo,2016,204330
+191,Rio Grande do Norte,(mil m3),Etanol anidro e hidratado,2016,7515
+192,Rio Grande do Norte,(milhoes de m3),Gas Natural,2016,3888
+193,Rio Grande do Sul,(m3),Biodiesel,2016,10747590
+194,Rio Grande do Sul,(mil m3),Etanol anidro e hidratado,2016,291
+195,Rio de Janeiro,(m3),Biodiesel,2016,216690
+196,Rio de Janeiro,(m3),Biometano,2016,0
+197,Rio de Janeiro,(mil barris),LGN,2016,100430
+198,Rio de Janeiro,(mil barris),Petroleo,2016,6147130
+199,Rio de Janeiro,(mil m3),Etanol anidro e hidratado,2016,9469
+200,Rio de Janeiro,(milhoes de m3),Gas Natural,2016,166131
+201,Rondonia,(m3),Biodiesel,2016,10350
+202,Rondonia,(mil m3),Etanol anidro e hidratado,2016,906
+203,Santa Catarina,(m3),Biodiesel,2016,892520
+204,Sao Paulo,(m3),Biodiesel,2016,1377910
+205,Sao Paulo,(m3),Biometano,2016,0
+206,Sao Paulo,(mil barris),LGN,2016,101640
+207,Sao Paulo,(mil barris),Petroleo,2016,1026050
+208,Sao Paulo,(mil m3),Etanol anidro e hidratado,2016,1423241
+209,Sao Paulo,(milhoes de m3),Gas Natural,2016,58322
+210,Sergipe,(mil barris),LGN,2016,6390
+211,Sergipe,(mil barris),Petroleo,2016,109020
+212,Sergipe,(mil m3),Etanol anidro e hidratado,2016,7603
+213,Sergipe,(milhoes de m3),Gas Natural,2016,9492
+214,Tocantins,(m3),Biodiesel,2016,379230
+215,Tocantins,(mil m3),Etanol anidro e hidratado,2016,16197
+216,Acre,(mil m3),Etanol anidro e hidratado,2017,0
+217,Alagoas,(mil barris),LGN,2017,5020
+218,Alagoas,(mil barris),Petroleo,2017,16390
+219,Alagoas,(mil m3),Etanol anidro e hidratado,2017,31188
+220,Alagoas,(milhoes de m3),Gas Natural,2017,3917
+221,Amazonas,(mil barris),LGN,2017,57230
+222,Amazonas,(mil barris),Petroleo,2017,74820
+223,Amazonas,(mil m3),Etanol anidro e hidratado,2017,485
+224,Amazonas,(milhoes de m3),Gas Natural,2017,47564
+225,Bahia,(m3),Biodiesel,2017,2909450
+226,Bahia,(mil barris),LGN,2017,9600
+227,Bahia,(mil barris),Petroleo,2017,136910
+228,Bahia,(mil m3),Etanol anidro e hidratado,2017,18077
+229,Bahia,(milhoes de m3),Gas Natural,2017,25873
+230,Ceara,(m3),Biodiesel,2017,0
+231,Ceara,(m3),Biometano,2017,0
+232,Ceara,(mil barris),LGN,2017,0
+233,Ceara,(mil barris),Petroleo,2017,60380
+234,Ceara,(mil m3),Etanol anidro e hidratado,2017,0
+235,Ceara,(milhoes de m3),Gas Natural,2017,305
+236,Espirito Santo,(mil barris),LGN,2017,59690
+237,Espirito Santo,(mil barris),Petroleo,2017,1377600
+238,Espirito Santo,(mil m3),Etanol anidro e hidratado,2017,9065
+239,Espirito Santo,(milhoes de m3),Gas Natural,2017,40216
+240,Goias,(m3),Biodiesel,2017,7165700
+241,Goias,(mil m3),Etanol anidro e hidratado,2017,487478
+242,Maranhao,(mil barris),Petroleo,2017,1300
+243,Maranhao,(mil m3),Etanol anidro e hidratado,2017,16256
+244,Maranhao,(milhoes de m3),Gas Natural,2017,16172
+245,Mato Grosso,(m3),Biodiesel,2017,9140020
+246,Mato Grosso,(mil m3),Etanol anidro e hidratado,2017,141509
+247,Mato Grosso do Sul,(m3),Biodiesel,2017,2657070
+248,Mato Grosso do Sul,(mil m3),Etanol anidro e hidratado,2017,266806
+249,Minas Gerais,(m3),Biodiesel,2017,1181360
+250,Minas Gerais,(mil m3),Etanol anidro e hidratado,2017,27054
+251,Para,(m3),Biodiesel,2017,0
+252,Para,(mil m3),Etanol anidro e hidratado,2017,5162
+253,Paraiba,(mil m3),Etanol anidro e hidratado,2017,32963
+254,Parana,(m3),Biodiesel,2017,5042330
+255,Parana,(mil m3),Etanol anidro e hidratado,2017,129137
+256,Parana,(milhoes de m3),Gas Natural,2017,0
+257,Pernambuco,(mil m3),Etanol anidro e hidratado,2017,27945
+258,Piaui,(m3),Biodiesel,2017,0
+259,Piaui,(mil m3),Etanol anidro e hidratado,2017,204
+260,Rio Grande do Norte,(m3),Biodiesel,2017,0
+261,Rio Grande do Norte,(mil barris),LGN,2017,9650
+262,Rio Grande do Norte,(mil barris),Petroleo,2017,173010
+263,Rio Grande do Norte,(mil m3),Etanol anidro e hidratado,2017,6635
+264,Rio Grande do Norte,(milhoes de m3),Gas Natural,2017,3994
+265,Rio Grande do Sul,(m3),Biodiesel,2017,11359760
+266,Rio Grande do Sul,(mil m3),Etanol anidro e hidratado,2017,249
+267,Rio de Janeiro,(m3),Biodiesel,2017,582370
+268,Rio de Janeiro,(m3),Biometano,2017,0
+269,Rio de Janeiro,(mil barris),LGN,2017,75090
+270,Rio de Janeiro,(mil barris),Petroleo,2017,6508540
+271,Rio de Janeiro,(mil m3),Etanol anidro e hidratado,2017,5389
+272,Rio de Janeiro,(milhoes de m3),Gas Natural,2017,186151
+273,Rondonia,(m3),Biodiesel,2017,72600
+274,Rondonia,(mil m3),Etanol anidro e hidratado,2017,49
+275,Santa Catarina,(m3),Biodiesel,2017,1219650
+276,Sao Paulo,(m3),Biodiesel,2017,1562460
+277,Sao Paulo,(m3),Biometano,2017,0
+278,Sao Paulo,(mil barris),LGN,2017,183450
+279,Sao Paulo,(mil barris),Petroleo,2017,1200140
+280,Sao Paulo,(mil m3),Etanol anidro e hidratado,2017,1383859
+281,Sao Paulo,(milhoes de m3),Gas Natural,2017,68863
+282,Sergipe,(mil barris),LGN,2017,5520
+283,Sergipe,(mil barris),Petroleo,2017,84710
+284,Sergipe,(mil m3),Etanol anidro e hidratado,2017,6374
+285,Sergipe,(milhoes de m3),Gas Natural,2017,8118
+286,Tocantins,(m3),Biodiesel,2017,5610
+287,Tocantins,(mil m3),Etanol anidro e hidratado,2017,17627
+288,Acre,(mil m3),Etanol anidro e hidratado,2018,0
+289,Alagoas,(mil barris),LGN,2018,5140
+290,Alagoas,(mil barris),Petroleo,2018,97200
+291,Alagoas,(mil m3),Etanol anidro e hidratado,2018,4641
+292,Alagoas,(milhoes de m3),Gas Natural,2018,4075
+293,Amazonas,(mil barris),LGN,2018,62250
+294,Amazonas,(mil barris),Petroleo,2018,74620
+295,Amazonas,(mil m3),Etanol anidro e hidratado,2018,547
+296,Amazonas,(milhoes de m3),Gas Natural,2018,52160
+297,Bahia,(m3),Biodiesel,2018,3763380
+298,Bahia,(mil barris),LGN,2018,9360
+299,Bahia,(mil barris),Petroleo,2018,125160
+300,Bahia,(mil m3),Etanol anidro e hidratado,2018,2457
+301,Bahia,(milhoes de m3),Gas Natural,2018,25530
+302,Ceara,(m3),Biodiesel,2018,0
+303,Ceara,(m3),Biometano,2018,0
+304,Ceara,(mil barris),LGN,2018,0
+305,Ceara,(mil barris),Petroleo,2018,54240
+306,Ceara,(mil m3),Etanol anidro e hidratado,2018,0
+307,Ceara,(milhoes de m3),Gas Natural,2018,357
+308,Espirito Santo,(mil barris),LGN,2018,54760
+309,Espirito Santo,(mil barris),Petroleo,2018,1223090
+310,Espirito Santo,(mil m3),Etanol anidro e hidratado,2018,12757
+311,Espirito Santo,(milhoes de m3),Gas Natural,2018,34629
+312,Goias,(m3),Biodiesel,2018,7581960
+313,Goias,(mil m3),Etanol anidro e hidratado,2018,449143
+314,Maranhao,(mil barris),Petroleo,2018,1500
+315,Maranhao,(mil m3),Etanol anidro e hidratado,2018,14762
+316,Maranhao,(milhoes de m3),Gas Natural,2018,14109
+317,Mato Grosso,(m3),Biodiesel,2018,11195520
+318,Mato Grosso,(mil m3),Etanol anidro e hidratado,2018,175728
+319,Mato Grosso do Sul,(m3),Biodiesel,2018,3244830
+320,Mato Grosso do Sul,(mil m3),Etanol anidro e hidratado,2018,326448
+321,Minas Gerais,(m3),Biodiesel,2018,1279460
+322,Minas Gerais,(mil m3),Etanol anidro e hidratado,2018,32576
+323,Para,(m3),Biodiesel,2018,0
+324,Para,(mil m3),Etanol anidro e hidratado,2018,4346
+325,Paraiba,(mil m3),Etanol anidro e hidratado,2018,43104
+326,Parana,(m3),Biodiesel,2018,6018210
+327,Parana,(mil m3),Etanol anidro e hidratado,2018,162401
+328,Parana,(milhoes de m3),Gas Natural,2018,0
+329,Pernambuco,(mil m3),Etanol anidro e hidratado,2018,46551
+330,Piaui,(m3),Biodiesel,2018,0
+331,Piaui,(mil m3),Etanol anidro e hidratado,2018,3748
+332,Rio Grande do Norte,(m3),Biodiesel,2018,0
+333,Rio Grande do Norte,(mil barris),LGN,2018,8490
+334,Rio Grande do Norte,(mil barris),Petroleo,2018,14700
+335,Rio Grande do Norte,(mil m3),Etanol anidro e hidratado,2018,1149
+336,Rio Grande do Norte,(milhoes de m3),Gas Natural,2018,3514
+337,Rio Grande do Sul,(m3),Biodiesel,2018,14750800
+338,Rio Grande do Sul,(mil m3),Etanol anidro e hidratado,2018,219
+339,Rio de Janeiro,(m3),Biodiesel,2018,961030
+340,Rio de Janeiro,(m3),Biometano,2018,0
+341,Rio de Janeiro,(mil barris),LGN,2018,56810
+342,Rio de Janeiro,(mil barris),Petroleo,2018,6628180
+343,Rio de Janeiro,(mil m3),Etanol anidro e hidratado,2018,9726
+344,Rio de Janeiro,(milhoes de m3),Gas Natural,2018,201976
+345,Rondonia,(m3),Biodiesel,2018,162320
+346,Rondonia,(mil m3),Etanol anidro e hidratado,2018,139
+347,Santa Catarina,(m3),Biodiesel,2018,1221310
+348,Sao Paulo,(m3),Biodiesel,2018,2336530
+349,Sao Paulo,(m3),Biometano,2018,0
+350,Sao Paulo,(mil barris),LGN,2018,190480
+351,Sao Paulo,(mil barris),Petroleo,2018,1164640
+352,Sao Paulo,(mil m3),Etanol anidro e hidratado,2018,162034
+353,Sao Paulo,(milhoes de m3),Gas Natural,2018,64310
+354,Sergipe,(mil barris),LGN,2018,4540
+355,Sergipe,(mil barris),Petroleo,2018,66290
+356,Sergipe,(mil m3),Etanol anidro e hidratado,2018,1042
+357,Sergipe,(milhoes de m3),Gas Natural,2018,7913
+358,Tocantins,(m3),Biodiesel,2018,851010
+359,Tocantins,(mil m3),Etanol anidro e hidratado,2018,15522
+360,Acre,(mil m3),Etanol anidro e hidratado,2019,0
+361,Alagoas,(mil barris),LGN,2019,3690
+362,Alagoas,(mil barris),Petroleo,2019,97531
+363,Alagoas,(mil m3),Etanol anidro e hidratado,2019,50316
+364,Alagoas,(milhoes de m3),Gas Natural,2019,3145
+365,Amazonas,(mil barris),LGN,2019,59950
+366,Amazonas,(mil barris),Petroleo,2019,68140
+367,Amazonas,(mil m3),Etanol anidro e hidratado,2019,882
+368,Amazonas,(milhoes de m3),Gas Natural,2019,55711
+369,Bahia,(m3),Biodiesel,2019,4543260
+370,Bahia,(mil barris),LGN,2019,8800
+371,Bahia,(mil barris),Petroleo,2019,102630
+372,Bahia,(mil m3),Etanol anidro e hidratado,2019,2491
+373,Bahia,(milhoes de m3),Gas Natural,2019,20827
+374,Ceara,(m3),Biodiesel,2019,0
+375,Ceara,(m3),Biometano,2019,0
+376,Ceara,(mil barris),LGN,2019,0
+377,Ceara,(mil barris),Petroleo,2019,18550
+378,Ceara,(mil m3),Etanol anidro e hidratado,2019,0
+379,Ceara,(milhoes de m3),Gas Natural,2019,284
+380,Espirito Santo,(mil barris),LGN,2019,56490
+381,Espirito Santo,(mil barris),Petroleo,2019,1049890
+382,Espirito Santo,(mil m3),Etanol anidro e hidratado,2019,12097
+383,Espirito Santo,(milhoes de m3),Gas Natural,2019,26717
+384,Goias,(m3),Biodiesel,2019,8650510
+385,Goias,(mil m3),Etanol anidro e hidratado,2019,547074
+386,Maranhao,(mil barris),Petroleo,2019,200
+387,Maranhao,(mil m3),Etanol anidro e hidratado,2019,16774
+388,Maranhao,(milhoes de m3),Gas Natural,2019,13951
+389,Mato Grosso,(m3),Biodiesel,2019,12349720
+390,Mato Grosso,(mil m3),Etanol anidro e hidratado,2019,225438
+391,Mato Grosso do Sul,(m3),Biodiesel,2019,3434570
+392,Mato Grosso do Sul,(mil m3),Etanol anidro e hidratado,2019,33072
+393,Minas Gerais,(m3),Biodiesel,2019,1311120
+394,Minas Gerais,(mil m3),Etanol anidro e hidratado,2019,357921
+395,Para,(m3),Biodiesel,2019,0
+396,Para,(mil m3),Etanol anidro e hidratado,2019,6123
+397,Paraiba,(mil m3),Etanol anidro e hidratado,2019,35903
+398,Parana,(m3),Biodiesel,2019,6299470
+399,Parana,(mil m3),Etanol anidro e hidratado,2019,166463
+400,Parana,(milhoes de m3),Gas Natural,2019,0
+401,Pernambuco,(mil m3),Etanol anidro e hidratado,2019,36796
+402,Piaui,(m3),Biodiesel,2019,0
+403,Piaui,(mil m3),Etanol anidro e hidratado,2019,4646
+404,Rio Grande do Norte,(m3),Biodiesel,2019,0
+405,Rio Grande do Norte,(mil barris),LGN,2019,8190
+406,Rio Grande do Norte,(mil barris),Petroleo,2019,139100
+407,Rio Grande do Norte,(mil m3),Etanol anidro e hidratado,2019,10964
+408,Rio Grande do Norte,(milhoes de m3),Gas Natural,2019,3348
+409,Rio Grande do Sul,(m3),Biodiesel,2019,16363360
+410,Rio Grande do Sul,(mil m3),Etanol anidro e hidratado,2019,164
+411,Rio de Janeiro,(m3),Biodiesel,2019,1376730
+412,Rio de Janeiro,(m3),Biometano,2019,0
+413,Rio de Janeiro,(mil barris),LGN,2019,43300
+414,Rio de Janeiro,(mil barris),Petroleo,2019,7658690
+415,Rio de Janeiro,(mil m3),Etanol anidro e hidratado,2019,9162
+416,Rio de Janeiro,(milhoes de m3),Gas Natural,2019,249862
+417,Rondonia,(m3),Biodiesel,2019,158620
+418,Rondonia,(mil m3),Etanol anidro e hidratado,2019,485
+419,Santa Catarina,(m3),Biodiesel,2019,1304730
+420,Sao Paulo,(m3),Biodiesel,2019,2310900
+421,Sao Paulo,(m3),Biometano,2019,0
+422,Sao Paulo,(mil barris),LGN,2019,193090
+423,Sao Paulo,(mil barris),Petroleo,2019,1074600
+424,Sao Paulo,(mil m3),Etanol anidro e hidratado,2019,1666825
+425,Sao Paulo,(milhoes de m3),Gas Natural,2019,66942
+426,Sergipe,(mil barris),LGN,2019,3480
+427,Sergipe,(mil barris),Petroleo,2019,53750
+428,Sergipe,(mil m3),Etanol anidro e hidratado,2019,10183
+429,Sergipe,(milhoes de m3),Gas Natural,2019,6454
+430,Tocantins,(m3),Biodiesel,2019,924890
+431,Tocantins,(mil m3),Etanol anidro e hidratado,2019,16637
+432,Acre,(mil m3),Etanol anidro e hidratado,2020,0
+433,Alagoas,(mil barris),LGN,2020,3890
+434,Alagoas,(mil barris),Petroleo,2020,93000
+435,Alagoas,(mil m3),Etanol anidro e hidratado,2020,42589
+436,Alagoas,(milhoes de m3),Gas Natural,2020,3095
+437,Amazonas,(mil barris),LGN,2020,57480
+438,Amazonas,(mil barris),Petroleo,2020,57770
+439,Amazonas,(mil m3),Etanol anidro e hidratado,2020,901
+440,Amazonas,(milhoes de m3),Gas Natural,2020,49572
+441,Bahia,(m3),Biodiesel,2020,4385810
+442,Bahia,(mil barris),LGN,2020,6740
+443,Bahia,(mil barris),Petroleo,2020,100620
+444,Bahia,(mil m3),Etanol anidro e hidratado,2020,27355
+445,Bahia,(milhoes de m3),Gas Natural,2020,15631
+446,Ceara,(m3),Biodiesel,2020,0
+447,Ceara,(m3),Biometano,2020,247921090
+448,Ceara,(mil barris),LGN,2020,0
+449,Ceara,(mil barris),Petroleo,2020,58800
+450,Ceara,(mil m3),Etanol anidro e hidratado,2020,0
+451,Ceara,(milhoes de m3),Gas Natural,2020,62
+452,Espirito Santo,(mil barris),LGN,2020,57520
+453,Espirito Santo,(mil barris),Petroleo,2020,904000
+454,Espirito Santo,(mil m3),Etanol anidro e hidratado,2020,8969
+455,Espirito Santo,(milhoes de m3),Gas Natural,2020,23038
+456,Goias,(m3),Biodiesel,2020,8784980
+457,Goias,(mil m3),Etanol anidro e hidratado,2020,531805
+458,Maranhao,(mil barris),Petroleo,2020,2400
+459,Maranhao,(mil m3),Etanol anidro e hidratado,2020,17455
+460,Maranhao,(milhoes de m3),Gas Natural,2020,13504
+461,Mato Grosso,(m3),Biodiesel,2020,13833840
+462,Mato Grosso,(mil m3),Etanol anidro e hidratado,2020,312387
+463,Mato Grosso do Sul,(m3),Biodiesel,2020,3088900
+464,Mato Grosso do Sul,(mil m3),Etanol anidro e hidratado,2020,287725
+465,Minas Gerais,(m3),Biodiesel,2020,1318880
+466,Minas Gerais,(mil m3),Etanol anidro e hidratado,2020,307821
+467,Para,(m3),Biodiesel,2020,0
+468,Para,(mil m3),Etanol anidro e hidratado,2020,5034
+469,Paraiba,(mil m3),Etanol anidro e hidratado,2020,39553
+470,Parana,(m3),Biodiesel,2020,7682400
+471,Parana,(mil m3),Etanol anidro e hidratado,2020,126387
+472,Parana,(milhoes de m3),Gas Natural,2020,0
+473,Pernambuco,(mil m3),Etanol anidro e hidratado,2020,39502
+474,Piaui,(m3),Biodiesel,2020,396430
+475,Piaui,(mil m3),Etanol anidro e hidratado,2020,3861
+476,Rio Grande do Norte,(m3),Biodiesel,2020,0
+477,Rio Grande do Norte,(mil barris),LGN,2020,5410
+478,Rio Grande do Norte,(mil barris),Petroleo,2020,214230
+479,Rio Grande do Norte,(mil m3),Etanol anidro e hidratado,2020,1183
+480,Rio Grande do Norte,(milhoes de m3),Gas Natural,2020,2449
+481,Rio Grande do Sul,(m3),Biodiesel,2020,18332670
+482,Rio Grande do Sul,(mil m3),Etanol anidro e hidratado,2020,9
+483,Rio de Janeiro,(m3),Biodiesel,2020,1412990
+484,Rio de Janeiro,(m3),Biometano,2020,113513270
+485,Rio de Janeiro,(mil barris),LGN,2020,32200
+486,Rio de Janeiro,(mil barris),Petroleo,2020,8538030
+487,Rio de Janeiro,(mil m3),Etanol anidro e hidratado,2020,13739
+488,Rio de Janeiro,(milhoes de m3),Gas Natural,2020,295666
+489,Rondonia,(m3),Biodiesel,2020,68540
+490,Rondonia,(mil m3),Etanol anidro e hidratado,2020,7
+491,Santa Catarina,(m3),Biodiesel,2020,1399450
+492,Sao Paulo,(m3),Biodiesel,2020,2329330
+493,Sao Paulo,(m3),Biometano,2020,0
+494,Sao Paulo,(mil barris),LGN,2020,201540
+495,Sao Paulo,(mil barris),Petroleo,2020,982260
+496,Sao Paulo,(mil m3),Etanol anidro e hidratado,2020,1448127
+497,Sao Paulo,(milhoes de m3),Gas Natural,2020,61560
+498,Sergipe,(mil barris),LGN,2020,1060
+499,Sergipe,(mil barris),Petroleo,2020,109160
+500,Sergipe,(mil m3),Etanol anidro e hidratado,2020,9716
+501,Sergipe,(milhoes de m3),Gas Natural,2020,1734
+502,Tocantins,(m3),Biodiesel,2020,1417570
+503,Tocantins,(mil m3),Etanol anidro e hidratado,2020,1745
+504,Acre,(mil m3),Etanol anidro e hidratado,2021,0
+505,Alagoas,(mil barris),LGN,2021,2960
+506,Alagoas,(mil barris),Petroleo,2021,6740
+507,Alagoas,(mil m3),Etanol anidro e hidratado,2021,42361
+508,Alagoas,(milhoes de m3),Gas Natural,2021,2018
+509,Amazonas,(mil barris),LGN,2021,54060
+510,Amazonas,(mil barris),Petroleo,2021,53280
+511,Amazonas,(mil m3),Etanol anidro e hidratado,2021,639
+512,Amazonas,(milhoes de m3),Gas Natural,2021,49571
+513,Bahia,(m3),Biodiesel,2021,4104300
+514,Bahia,(mil barris),LGN,2021,6470
+515,Bahia,(mil barris),Petroleo,2021,81910
+516,Bahia,(mil m3),Etanol anidro e hidratado,2021,31154
+517,Bahia,(milhoes de m3),Gas Natural,2021,19829
+518,Ceara,(m3),Biodiesel,2021,0
+519,Ceara,(m3),Biometano,2021,245916970
+520,Ceara,(mil barris),LGN,2021,0
+521,Ceara,(mil barris),Petroleo,2021,2470
+522,Ceara,(mil m3),Etanol anidro e hidratado,2021,0
+523,Ceara,(milhoes de m3),Gas Natural,2021,3
+524,Espirito Santo,(mil barris),LGN,2021,50970
+525,Espirito Santo,(mil barris),Petroleo,2021,768800
+526,Espirito Santo,(mil m3),Etanol anidro e hidratado,2021,9302
+527,Espirito Santo,(milhoes de m3),Gas Natural,2021,19973
+528,Goias,(m3),Biodiesel,2021,9646410
+529,Goias,(mil m3),Etanol anidro e hidratado,2021,497971
+530,Maranhao,(mil barris),Petroleo,2021,300
+531,Maranhao,(mil m3),Etanol anidro e hidratado,2021,16433
+532,Maranhao,(milhoes de m3),Gas Natural,2021,21411
+533,Mato Grosso,(m3),Biodiesel,2021,13215940
+534,Mato Grosso,(mil m3),Etanol anidro e hidratado,2021,393536
+535,Mato Grosso do Sul,(m3),Biodiesel,2021,2797690
+536,Mato Grosso do Sul,(mil m3),Etanol anidro e hidratado,2021,26367
+537,Minas Gerais,(m3),Biodiesel,2021,1122010
+538,Minas Gerais,(mil m3),Etanol anidro e hidratado,2021,283928
+539,Para,(m3),Biodiesel,2021,0
+540,Para,(mil m3),Etanol anidro e hidratado,2021,5498
+541,Paraiba,(mil m3),Etanol anidro e hidratado,2021,36288
+542,Parana,(m3),Biodiesel,2021,12160480
+543,Parana,(mil m3),Etanol anidro e hidratado,2021,119362
+544,Parana,(milhoes de m3),Gas Natural,2021,0
+545,Pernambuco,(mil m3),Etanol anidro e hidratado,2021,32088
+546,Piaui,(m3),Biodiesel,2021,423920
+547,Piaui,(mil m3),Etanol anidro e hidratado,2021,4414
+548,Rio Grande do Norte,(m3),Biodiesel,2021,0
+549,Rio Grande do Norte,(mil barris),LGN,2021,5270
+550,Rio Grande do Norte,(mil barris),Petroleo,2021,122270
+551,Rio Grande do Norte,(mil m3),Etanol anidro e hidratado,2021,10178
+552,Rio Grande do Norte,(milhoes de m3),Gas Natural,2021,2449
+553,Rio Grande do Sul,(m3),Biodiesel,2021,18642910
+554,Rio Grande do Sul,(mil m3),Etanol anidro e hidratado,2021,0
+555,Rio de Janeiro,(m3),Biodiesel,2021,1378780
+556,Rio de Janeiro,(m3),Biometano,2021,284517240
+557,Rio de Janeiro,(mil barris),LGN,2021,31150
+558,Rio de Janeiro,(mil barris),Petroleo,2021,8546620
+559,Rio de Janeiro,(mil m3),Etanol anidro e hidratado,2021,12634
+560,Rio de Janeiro,(milhoes de m3),Gas Natural,2021,312233
+561,Rondonia,(m3),Biodiesel,2021,37240
+562,Rondonia,(mil m3),Etanol anidro e hidratado,2021,0
+563,Santa Catarina,(m3),Biodiesel,2021,1017980
+564,Sao Paulo,(m3),Biodiesel,2021,1751980
+565,Sao Paulo,(m3),Biometano,2021,0
+566,Sao Paulo,(mil barris),LGN,2021,180530
+567,Sao Paulo,(mil barris),Petroleo,2021,992260
+568,Sao Paulo,(mil m3),Etanol anidro e hidratado,2021,121255
+569,Sao Paulo,(milhoes de m3),Gas Natural,2021,60572
+570,Sergipe,(mil barris),LGN,2021,0
+571,Sergipe,(mil barris),Petroleo,2021,29030
+572,Sergipe,(mil m3),Etanol anidro e hidratado,2021,1130
+573,Sergipe,(milhoes de m3),Gas Natural,2021,182
+574,Tocantins,(m3),Biodiesel,2021,1406980
+575,Tocantins,(mil m3),Etanol anidro e hidratado,2021,19501
+576,Acre,(mil m3),Etanol anidro e hidratado,2022,0
+577,Alagoas,(mil barris),LGN,2022,280
+578,Alagoas,(mil barris),Petroleo,2022,8820
+579,Alagoas,(mil m3),Etanol anidro e hidratado,2022,38491
+580,Alagoas,(milhoes de m3),Gas Natural,2022,2740
+581,Amazonas,(mil barris),LGN,2022,50990
+582,Amazonas,(mil barris),Petroleo,2022,49000
+583,Amazonas,(mil m3),Etanol anidro e hidratado,2022,59
+584,Amazonas,(milhoes de m3),Gas Natural,2022,50676
+585,Bahia,(m3),Biodiesel,2022,5773000
+586,Bahia,(mil barris),LGN,2022,7660
+587,Bahia,(mil barris),Petroleo,2022,72240
+588,Bahia,(mil m3),Etanol anidro e hidratado,2022,33491
+589,Bahia,(milhoes de m3),Gas Natural,2022,17889
+590,Ceara,(m3),Biodiesel,2022,0
+591,Ceara,(m3),Biometano,2022,286624650
+592,Ceara,(mil barris),LGN,2022,0
+593,Ceara,(mil barris),Petroleo,2022,2230
+594,Ceara,(mil m3),Etanol anidro e hidratado,2022,0
+595,Ceara,(milhoes de m3),Gas Natural,2022,3
+596,Espirito Santo,(mil barris),LGN,2022,34060
+597,Espirito Santo,(mil barris),Petroleo,2022,502820
+598,Espirito Santo,(mil m3),Etanol anidro e hidratado,2022,1039
+599,Espirito Santo,(milhoes de m3),Gas Natural,2022,12439
+600,Goias,(m3),Biodiesel,2022,11038620
+601,Goias,(mil m3),Etanol anidro e hidratado,2022,512452
+602,Maranhao,(mil barris),Petroleo,2022,140
+603,Maranhao,(mil m3),Etanol anidro e hidratado,2022,14311
+604,Maranhao,(milhoes de m3),Gas Natural,2022,9278
+605,Mato Grosso,(m3),Biodiesel,2022,10653660
+606,Mato Grosso,(mil m3),Etanol anidro e hidratado,2022,430952
+607,Mato Grosso do Sul,(m3),Biodiesel,2022,1895980
+608,Mato Grosso do Sul,(mil m3),Etanol anidro e hidratado,2022,307747
+609,Minas Gerais,(m3),Biodiesel,2022,1280930
+610,Minas Gerais,(mil m3),Etanol anidro e hidratado,2022,289495
+611,Para,(m3),Biodiesel,2022,495770
+612,Para,(mil m3),Etanol anidro e hidratado,2022,5277
+613,Paraiba,(mil m3),Etanol anidro e hidratado,2022,36186
+614,Parana,(m3),Biodiesel,2022,8440460
+615,Parana,(mil m3),Etanol anidro e hidratado,2022,108755
+616,Parana,(milhoes de m3),Gas Natural,2022,41
+617,Pernambuco,(mil m3),Etanol anidro e hidratado,2022,30874
+618,Piaui,(m3),Biodiesel,2022,542900
+619,Piaui,(mil m3),Etanol anidro e hidratado,2022,4503
+620,Rio Grande do Norte,(m3),Biodiesel,2022,0
+621,Rio Grande do Norte,(mil barris),LGN,2022,2480
+622,Rio Grande do Norte,(mil barris),Petroleo,2022,119930
+623,Rio Grande do Norte,(mil m3),Etanol anidro e hidratado,2022,9181
+624,Rio Grande do Norte,(milhoes de m3),Gas Natural,2022,3370
+625,Rio Grande do Sul,(m3),Biodiesel,2022,15259290
+626,Rio Grande do Sul,(mil m3),Etanol anidro e hidratado,2022,1
+627,Rio de Janeiro,(m3),Biodiesel,2022,1340930
+628,Rio de Janeiro,(m3),Biometano,2022,369096850
+629,Rio de Janeiro,(mil barris),LGN,2022,47740
+630,Rio de Janeiro,(mil barris),Petroleo,2022,9324310
+631,Rio de Janeiro,(mil m3),Etanol anidro e hidratado,2022,11017
+632,Rio de Janeiro,(milhoes de m3),Gas Natural,2022,347765
+633,Rondonia,(m3),Biodiesel,2022,185550
+634,Rondonia,(mil m3),Etanol anidro e hidratado,2022,0
+635,Santa Catarina,(m3),Biodiesel,2022,2833180
+636,Sao Paulo,(m3),Biodiesel,2022,1860140
+637,Sao Paulo,(m3),Biometano,2022,11097470
+638,Sao Paulo,(mil barris),LGN,2022,191470
+639,Sao Paulo,(mil barris),Petroleo,2022,935380
+640,Sao Paulo,(mil m3),Etanol anidro e hidratado,2022,1191128
+641,Sao Paulo,(milhoes de m3),Gas Natural,2022,59090
+642,Sergipe,(mil barris),LGN,2022,0
+643,Sergipe,(mil barris),Petroleo,2022,13640
+644,Sergipe,(mil m3),Etanol anidro e hidratado,2022,7911
+645,Sergipe,(milhoes de m3),Gas Natural,2022,91
+646,Tocantins,(m3),Biodiesel,2022,946690
+647,Tocantins,(mil m3),Etanol anidro e hidratado,2022,20958
+648,Acre,(mil m3),Etanol anidro e hidratado,2023,0
+649,Alagoas,(mil barris),LGN,2023,5470
+650,Alagoas,(mil barris),Petroleo,2023,9080
+651,Alagoas,(mil m3),Etanol anidro e hidratado,2023,51168
+652,Alagoas,(milhoes de m3),Gas Natural,2023,4366
+653,Amazonas,(mil barris),LGN,2023,50920
+654,Amazonas,(mil barris),Petroleo,2023,45040
+655,Amazonas,(mil m3),Etanol anidro e hidratado,2023,681
+656,Amazonas,(milhoes de m3),Gas Natural,2023,52137
+657,Bahia,(m3),Biodiesel,2023,5586710
+658,Bahia,(mil barris),LGN,2023,2450
+659,Bahia,(mil barris),Petroleo,2023,58580
+660,Bahia,(mil m3),Etanol anidro e hidratado,2023,38181
+661,Bahia,(milhoes de m3),Gas Natural,2023,15560
+662,Ceara,(m3),Biodiesel,2023,0
+663,Ceara,(m3),Biometano,2023,256577930
+664,Ceara,(mil barris),LGN,2023,0
+665,Ceara,(mil barris),Petroleo,2023,2650
+666,Ceara,(mil m3),Etanol anidro e hidratado,2023,0
+667,Ceara,(milhoes de m3),Gas Natural,2023,3
+668,Espirito Santo,(mil barris),LGN,2023,33890
+669,Espirito Santo,(mil barris),Petroleo,2023,619710
+670,Espirito Santo,(mil m3),Etanol anidro e hidratado,2023,8819
+671,Espirito Santo,(milhoes de m3),Gas Natural,2023,15262
+672,Goias,(m3),Biodiesel,2023,11837180
+673,Goias,(mil m3),Etanol anidro e hidratado,2023,545738
+674,Maranhao,(mil barris),Petroleo,2023,270
+675,Maranhao,(mil m3),Etanol anidro e hidratado,2023,16069
+676,Maranhao,(milhoes de m3),Gas Natural,2023,8445
+677,Mato Grosso,(m3),Biodiesel,2023,15530910
+678,Mato Grosso,(mil m3),Etanol anidro e hidratado,2023,540265
+679,Mato Grosso do Sul,(m3),Biodiesel,2023,2993180
+680,Mato Grosso do Sul,(mil m3),Etanol anidro e hidratado,2023,380775
+681,Minas Gerais,(m3),Biodiesel,2023,622030
+682,Minas Gerais,(mil m3),Etanol anidro e hidratado,2023,33047
+683,Para,(m3),Biodiesel,2023,1288180
+684,Para,(mil m3),Etanol anidro e hidratado,2023,5413
+685,Paraiba,(mil m3),Etanol anidro e hidratado,2023,41927
+686,Parana,(m3),Biodiesel,2023,10706660
+687,Parana,(mil m3),Etanol anidro e hidratado,2023,123122
+688,Parana,(milhoes de m3),Gas Natural,2023,94
+689,Pernambuco,(mil m3),Etanol anidro e hidratado,2023,32812
+690,Piaui,(m3),Biodiesel,2023,660550
+691,Piaui,(mil m3),Etanol anidro e hidratado,2023,4716
+692,Rio Grande do Norte,(m3),Biodiesel,2023,0
+693,Rio Grande do Norte,(mil barris),LGN,2023,1800
+694,Rio Grande do Norte,(mil barris),Petroleo,2023,118190
+695,Rio Grande do Norte,(mil m3),Etanol anidro e hidratado,2023,13828
+696,Rio Grande do Norte,(milhoes de m3),Gas Natural,2023,3835
+697,Rio Grande do Sul,(m3),Biodiesel,2023,16986340
+698,Rio Grande do Sul,(mil m3),Etanol anidro e hidratado,2023,2
+699,Rio de Janeiro,(m3),Biodiesel,2023,1488650
+700,Rio de Janeiro,(m3),Biometano,2023,426100880
+701,Rio de Janeiro,(mil barris),LGN,2023,48750
+702,Rio de Janeiro,(mil barris),Petroleo,2023,10631800
+703,Rio de Janeiro,(mil m3),Etanol anidro e hidratado,2023,8205
+704,Rio de Janeiro,(milhoes de m3),Gas Natural,2023,395540
+705,Rondonia,(m3),Biodiesel,2023,653830
+706,Rondonia,(mil m3),Etanol anidro e hidratado,2023,0
+707,Santa Catarina,(m3),Biodiesel,2023,3786720
+708,Sao Paulo,(m3),Biodiesel,2023,2245120
+709,Sao Paulo,(m3),Biometano,2023,66179110
+710,Sao Paulo,(mil barris),LGN,2023,148490
+711,Sao Paulo,(mil barris),Petroleo,2023,906080
+712,Sao Paulo,(mil m3),Etanol anidro e hidratado,2023,1367476
+713,Sao Paulo,(milhoes de m3),Gas Natural,2023,51338
+714,Sergipe,(mil barris),LGN,2023,0
+715,Sergipe,(mil barris),Petroleo,2023,24510
+716,Sergipe,(mil m3),Etanol anidro e hidratado,2023,9089
+717,Sergipe,(milhoes de m3),Gas Natural,2023,191
+718,Tocantins,(m3),Biodiesel,2023,890520
+719,Tocantins,(mil m3),Etanol anidro e hidratado,2023,19271
