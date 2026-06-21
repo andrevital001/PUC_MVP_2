@@ -1,721 +1,721 @@
-index;Unidades da Federacao;Unidade;Produto;Ano;Producao;Tipo
-0;Acre;(mil m3);Etanol anidro e hidratado;2014;0;Renovável
-1;Alagoas;(mil barris);LGN;2014;51600;Fóssil
-2;Alagoas;(mil barris);Petroleo;2014;26690;Fóssil
-3;Alagoas;(mil m3);Etanol anidro e hidratado;2014;48525;Renovável
-4;Alagoas;(milhoes de m3);Gas Natural;2014;5353;Fóssil
-5;Amazonas;(mil barris);LGN;2014;60850;Fóssil
-6;Amazonas;(mil barris);Petroleo;2014;102220;Fóssil
-7;Amazonas;(mil m3);Etanol anidro e hidratado;2014;292;Renovável
-8;Amazonas;(milhoes de m3);Gas Natural;2014;47038;Fóssil
-9;Bahia;(m3);Biodiesel;2014;1601920;Renovável
-10;Bahia;(mil barris);LGN;2014;14840;Fóssil
-11;Bahia;(mil barris);Petroleo;2014;191920;Fóssil
-12;Bahia;(mil m3);Etanol anidro e hidratado;2014;24029;Renovável
-13;Bahia;(milhoes de m3);Gas Natural;2014;30967;Fóssil
-14;Ceara;(m3);Biodiesel;2014;729840;Renovável
-15;Ceara;(m3);Biometano;2014;0;Renovável
-16;Ceara;(mil barris);LGN;2014;5700;Fóssil
-17;Ceara;(mil barris);Petroleo;2014;66810;Fóssil
-18;Ceara;(mil m3);Etanol anidro e hidratado;2014;913;Renovável
-19;Ceara;(milhoes de m3);Gas Natural;2014;328;Fóssil
-20;Espirito Santo;(mil barris);LGN;2014;6140;Fóssil
-21;Espirito Santo;(mil barris);Petroleo;2014;1339740;Fóssil
-22;Espirito Santo;(mil m3);Etanol anidro e hidratado;2014;16235;Renovável
-23;Espirito Santo;(milhoes de m3);Gas Natural;2014;47495;Fóssil
-24;Goias;(m3);Biodiesel;2014;6438370;Renovável
-25;Goias;(mil m3);Etanol anidro e hidratado;2014;426903;Renovável
-26;Maranhao;(mil barris);Petroleo;2014;4300;Fóssil
-27;Maranhao;(mil m3);Etanol anidro e hidratado;2014;17915;Renovável
-28;Maranhao;(milhoes de m3);Gas Natural;2014;19684;Fóssil
-29;Mato Grosso;(m3);Biodiesel;2014;6111080;Renovável
-30;Mato Grosso;(mil m3);Etanol anidro e hidratado;2014;113204;Renovável
-31;Mato Grosso do Sul;(m3);Biodiesel;2014;2172970;Renovável
-32;Mato Grosso do Sul;(mil m3);Etanol anidro e hidratado;2014;234974;Renovável
-33;Minas Gerais;(m3);Biodiesel;2014;832830;Renovável
-34;Minas Gerais;(mil m3);Etanol anidro e hidratado;2014;267628;Renovável
-35;Para;(m3);Biodiesel;2014;0;Renovável
-36;Para;(mil m3);Etanol anidro e hidratado;2014;4215;Renovável
-37;Paraiba;(mil m3);Etanol anidro e hidratado;2014;3757;Renovável
-38;Parana;(m3);Biodiesel;2014;3192220;Renovável
-39;Parana;(mil m3);Etanol anidro e hidratado;2014;157946;Renovável
-40;Parana;(milhoes de m3);Gas Natural;2014;0;Fóssil
-41;Pernambuco;(mil m3);Etanol anidro e hidratado;2014;33606;Renovável
-42;Piaui;(m3);Biodiesel;2014;0;Renovável
-43;Piaui;(mil m3);Etanol anidro e hidratado;2014;3251;Renovável
-44;Rio Grande do Norte;(m3);Biodiesel;2014;0;Renovável
-45;Rio Grande do Norte;(mil barris);LGN;2014;13380;Fóssil
-46;Rio Grande do Norte;(mil barris);Petroleo;2014;209620;Fóssil
-47;Rio Grande do Norte;(mil m3);Etanol anidro e hidratado;2014;7324;Renovável
-48;Rio Grande do Norte;(milhoes de m3);Gas Natural;2014;4899;Fóssil
-49;Rio Grande do Sul;(m3);Biodiesel;2014;9736470;Renovável
-50;Rio Grande do Sul;(mil m3);Etanol anidro e hidratado;2014;44;Renovável
-51;Rio de Janeiro;(m3);Biodiesel;2014;172620;Renovável
-52;Rio de Janeiro;(m3);Biometano;2014;0;Renovável
-53;Rio de Janeiro;(mil barris);LGN;2014;151770;Fóssil
-54;Rio de Janeiro;(mil barris);Petroleo;2014;5632320;Fóssil
-55;Rio de Janeiro;(mil m3);Etanol anidro e hidratado;2014;8849;Renovável
-56;Rio de Janeiro;(milhoes de m3);Gas Natural;2014;110974;Fóssil
-57;Rondonia;(m3);Biodiesel;2014;109770;Renovável
-58;Rondonia;(mil m3);Etanol anidro e hidratado;2014;1277;Renovável
-59;Santa Catarina;(m3);Biodiesel;2014;684520;Renovável
-60;Sao Paulo;(m3);Biodiesel;2014;1703450;Renovável
-61;Sao Paulo;(m3);Biometano;2014;0;Renovável
-62;Sao Paulo;(mil barris);LGN;2014;15940;Fóssil
-63;Sao Paulo;(mil barris);Petroleo;2014;592350;Fóssil
-64;Sao Paulo;(mil m3);Etanol anidro e hidratado;2014;1387149;Renovável
-65;Sao Paulo;(milhoes de m3);Gas Natural;2014;41631;Fóssil
-66;Sergipe;(mil barris);LGN;2014;10840;Fóssil
-67;Sergipe;(mil barris);Petroleo;2014;149720;Fóssil
-68;Sergipe;(mil m3);Etanol anidro e hidratado;2014;11154;Renovável
-69;Sergipe;(milhoes de m3);Gas Natural;2014;10580;Fóssil
-70;Tocantins;(m3);Biodiesel;2014;736040;Renovável
-71;Tocantins;(mil m3);Etanol anidro e hidratado;2014;18072;Renovável
-72;Acre;(mil m3);Etanol anidro e hidratado;2015;451;Renovável
-73;Alagoas;(mil barris);LGN;2015;44800;Fóssil
-74;Alagoas;(mil barris);Petroleo;2015;25260;Fóssil
-75;Alagoas;(mil m3);Etanol anidro e hidratado;2015;55456;Renovável
-76;Alagoas;(milhoes de m3);Gas Natural;2015;4274;Fóssil
-77;Amazonas;(mil barris);LGN;2015;63660;Fóssil
-78;Amazonas;(mil barris);Petroleo;2015;96010;Fóssil
-79;Amazonas;(mil m3);Etanol anidro e hidratado;2015;58;Renovável
-80;Amazonas;(milhoes de m3);Gas Natural;2015;50602;Fóssil
-81;Bahia;(m3);Biodiesel;2015;2254840;Renovável
-82;Bahia;(mil barris);LGN;2015;14730;Fóssil
-83;Bahia;(mil barris);Petroleo;2015;38190;Fóssil
-84;Bahia;(mil m3);Etanol anidro e hidratado;2015;22226;Renovável
-85;Bahia;(milhoes de m3);Gas Natural;2015;30408;Fóssil
-86;Ceara;(m3);Biodiesel;2015;874340;Renovável
-87;Ceara;(m3);Biometano;2015;0;Renovável
-88;Ceara;(mil barris);LGN;2015;2800;Fóssil
-89;Ceara;(mil barris);Petroleo;2015;72310;Fóssil
-90;Ceara;(mil m3);Etanol anidro e hidratado;2015;146;Renovável
-91;Ceara;(milhoes de m3);Gas Natural;2015;275;Fóssil
-92;Espirito Santo;(mil barris);LGN;2015;53820;Fóssil
-93;Espirito Santo;(mil barris);Petroleo;2015;1416470;Fóssil
-94;Espirito Santo;(mil m3);Etanol anidro e hidratado;2015;17873;Renovável
-95;Espirito Santo;(milhoes de m3);Gas Natural;2015;41144;Fóssil
-96;Goias;(m3);Biodiesel;2015;6952520;Renovável
-97;Goias;(mil m3);Etanol anidro e hidratado;2015;480935;Renovável
-98;Maranhao;(mil barris);Petroleo;2015;400;Fóssil
-99;Maranhao;(mil m3);Etanol anidro e hidratado;2015;18698;Renovável
-100;Maranhao;(milhoes de m3);Gas Natural;2015;15653;Fóssil
-101;Mato Grosso;(m3);Biodiesel;2015;8456710;Renovável
-102;Mato Grosso;(mil m3);Etanol anidro e hidratado;2015;131632;Renovável
-103;Mato Grosso do Sul;(m3);Biodiesel;2015;2074840;Renovável
-104;Mato Grosso do Sul;(mil m3);Etanol anidro e hidratado;2015;271233;Renovável
-105;Minas Gerais;(m3);Biodiesel;2015;922580;Renovável
-106;Minas Gerais;(mil m3);Etanol anidro e hidratado;2015;320292;Renovável
-107;Para;(m3);Biodiesel;2015;0;Renovável
-108;Para;(mil m3);Etanol anidro e hidratado;2015;4093;Renovável
-109;Paraiba;(mil m3);Etanol anidro e hidratado;2015;44706;Renovável
-110;Parana;(m3);Biodiesel;2015;3636890;Renovável
-111;Parana;(mil m3);Etanol anidro e hidratado;2015;146239;Renovável
-112;Parana;(milhoes de m3);Gas Natural;2015;0;Fóssil
-113;Pernambuco;(mil m3);Etanol anidro e hidratado;2015;44294;Renovável
-114;Piaui;(m3);Biodiesel;2015;0;Renovável
-115;Piaui;(mil m3);Etanol anidro e hidratado;2015;3268;Renovável
-116;Rio Grande do Norte;(m3);Biodiesel;2015;17990;Renovável
-117;Rio Grande do Norte;(mil barris);LGN;2015;11440;Fóssil
-118;Rio Grande do Norte;(mil barris);Petroleo;2015;208410;Fóssil
-119;Rio Grande do Norte;(mil m3);Etanol anidro e hidratado;2015;9826;Renovável
-120;Rio Grande do Norte;(milhoes de m3);Gas Natural;2015;4267;Fóssil
-121;Rio Grande do Sul;(m3);Biodiesel;2015;11143070;Renovável
-122;Rio Grande do Sul;(mil m3);Etanol anidro e hidratado;2015;379;Renovável
-123;Rio de Janeiro;(m3);Biodiesel;2015;187040;Renovável
-124;Rio de Janeiro;(m3);Biometano;2015;0;Renovável
-125;Rio de Janeiro;(mil barris);LGN;2015;143190;Fóssil
-126;Rio de Janeiro;(mil barris);Petroleo;2015;5969240;Fóssil
-127;Rio de Janeiro;(mil m3);Etanol anidro e hidratado;2015;576;Renovável
-128;Rio de Janeiro;(milhoes de m3);Gas Natural;2015;140620;Fóssil
-129;Rondonia;(m3);Biodiesel;2015;41400;Renovável
-130;Rondonia;(mil m3);Etanol anidro e hidratado;2015;1299;Renovável
-131;Santa Catarina;(m3);Biodiesel;2015;344890;Renovável
-132;Sao Paulo;(m3);Biodiesel;2015;1844730;Renovável
-133;Sao Paulo;(m3);Biometano;2015;0;Renovável
-134;Sao Paulo;(mil barris);LGN;2015;26130;Fóssil
-135;Sao Paulo;(mil barris);Petroleo;2015;899680;Fóssil
-136;Sao Paulo;(mil m3);Etanol anidro e hidratado;2015;1383005;Renovável
-137;Sao Paulo;(milhoes de m3);Gas Natural;2015;55384;Fóssil
-138;Sergipe;(mil barris);LGN;2015;89900;Fóssil
-139;Sergipe;(mil barris);Petroleo;2015;121630;Fóssil
-140;Sergipe;(mil m3);Etanol anidro e hidratado;2015;16989;Renovável
-141;Sergipe;(milhoes de m3);Gas Natural;2015;8638;Fóssil
-142;Tocantins;(m3);Biodiesel;2015;620850;Renovável
-143;Tocantins;(mil m3);Etanol anidro e hidratado;2015;18981;Renovável
-144;Acre;(mil m3);Etanol anidro e hidratado;2016;367;Renovável
-145;Alagoas;(mil barris);LGN;2016;5980;Fóssil
-146;Alagoas;(mil barris);Petroleo;2016;20490;Fóssil
-147;Alagoas;(mil m3);Etanol anidro e hidratado;2016;36649;Renovável
-148;Alagoas;(milhoes de m3);Gas Natural;2016;4183;Fóssil
-149;Amazonas;(mil barris);LGN;2016;57940;Fóssil
-150;Amazonas;(mil barris);Petroleo;2016;85610;Fóssil
-151;Amazonas;(mil m3);Etanol anidro e hidratado;2016;55;Renovável
-152;Amazonas;(milhoes de m3);Gas Natural;2016;51062;Fóssil
-153;Bahia;(m3);Biodiesel;2016;2452150;Renovável
-154;Bahia;(mil barris);LGN;2016;13970;Fóssil
-155;Bahia;(mil barris);Petroleo;2016;158040;Fóssil
-156;Bahia;(mil m3);Etanol anidro e hidratado;2016;12607;Renovável
-157;Bahia;(milhoes de m3);Gas Natural;2016;27243;Fóssil
-158;Ceara;(m3);Biodiesel;2016;593900;Renovável
-159;Ceara;(m3);Biometano;2016;0;Renovável
-160;Ceara;(mil barris);LGN;2016;0;Fóssil
-161;Ceara;(mil barris);Petroleo;2016;75980;Fóssil
-162;Ceara;(mil m3);Etanol anidro e hidratado;2016;524;Renovável
-163;Ceara;(milhoes de m3);Gas Natural;2016;374;Fóssil
-164;Espirito Santo;(mil barris);LGN;2016;57890;Fóssil
-165;Espirito Santo;(mil barris);Petroleo;2016;144180;Fóssil
-166;Espirito Santo;(mil m3);Etanol anidro e hidratado;2016;7531;Renovável
-167;Espirito Santo;(milhoes de m3);Gas Natural;2016;38947;Fóssil
-168;Goias;(m3);Biodiesel;2016;6499220;Renovável
-169;Goias;(mil m3);Etanol anidro e hidratado;2016;458421;Renovável
-170;Maranhao;(mil barris);Petroleo;2016;1400;Fóssil
-171;Maranhao;(mil m3);Etanol anidro e hidratado;2016;1280;Renovável
-172;Maranhao;(milhoes de m3);Gas Natural;2016;19263;Fóssil
-173;Mato Grosso;(m3);Biodiesel;2016;8186690;Renovável
-174;Mato Grosso;(mil m3);Etanol anidro e hidratado;2016;121165;Renovável
-175;Mato Grosso do Sul;(m3);Biodiesel;2016;1782370;Renovável
-176;Mato Grosso do Sul;(mil m3);Etanol anidro e hidratado;2016;259994;Renovável
-177;Minas Gerais;(m3);Biodiesel;2016;947980;Renovável
-178;Minas Gerais;(mil m3);Etanol anidro e hidratado;2016;269943;Renovável
-179;Para;(m3);Biodiesel;2016;0;Renovável
-180;Para;(mil m3);Etanol anidro e hidratado;2016;3315;Renovável
-181;Paraiba;(mil m3);Etanol anidro e hidratado;2016;36023;Renovável
-182;Parana;(m3);Biodiesel;2016;3926790;Renovável
-183;Parana;(mil m3);Etanol anidro e hidratado;2016;147369;Renovável
-184;Parana;(milhoes de m3);Gas Natural;2016;0;Fóssil
-185;Pernambuco;(mil m3);Etanol anidro e hidratado;2016;34787;Renovável
-186;Piaui;(m3);Biodiesel;2016;0;Renovável
-187;Piaui;(mil m3);Etanol anidro e hidratado;2016;2161;Renovável
-188;Rio Grande do Norte;(m3);Biodiesel;2016;0;Renovável
-189;Rio Grande do Norte;(mil barris);LGN;2016;9830;Fóssil
-190;Rio Grande do Norte;(mil barris);Petroleo;2016;204330;Fóssil
-191;Rio Grande do Norte;(mil m3);Etanol anidro e hidratado;2016;7515;Renovável
-192;Rio Grande do Norte;(milhoes de m3);Gas Natural;2016;3888;Fóssil
-193;Rio Grande do Sul;(m3);Biodiesel;2016;10747590;Renovável
-194;Rio Grande do Sul;(mil m3);Etanol anidro e hidratado;2016;291;Renovável
-195;Rio de Janeiro;(m3);Biodiesel;2016;216690;Renovável
-196;Rio de Janeiro;(m3);Biometano;2016;0;Renovável
-197;Rio de Janeiro;(mil barris);LGN;2016;100430;Fóssil
-198;Rio de Janeiro;(mil barris);Petroleo;2016;6147130;Fóssil
-199;Rio de Janeiro;(mil m3);Etanol anidro e hidratado;2016;9469;Renovável
-200;Rio de Janeiro;(milhoes de m3);Gas Natural;2016;166131;Fóssil
-201;Rondonia;(m3);Biodiesel;2016;10350;Renovável
-202;Rondonia;(mil m3);Etanol anidro e hidratado;2016;906;Renovável
-203;Santa Catarina;(m3);Biodiesel;2016;892520;Renovável
-204;Sao Paulo;(m3);Biodiesel;2016;1377910;Renovável
-205;Sao Paulo;(m3);Biometano;2016;0;Renovável
-206;Sao Paulo;(mil barris);LGN;2016;101640;Fóssil
-207;Sao Paulo;(mil barris);Petroleo;2016;1026050;Fóssil
-208;Sao Paulo;(mil m3);Etanol anidro e hidratado;2016;1423241;Renovável
-209;Sao Paulo;(milhoes de m3);Gas Natural;2016;58322;Fóssil
-210;Sergipe;(mil barris);LGN;2016;6390;Fóssil
-211;Sergipe;(mil barris);Petroleo;2016;109020;Fóssil
-212;Sergipe;(mil m3);Etanol anidro e hidratado;2016;7603;Renovável
-213;Sergipe;(milhoes de m3);Gas Natural;2016;9492;Fóssil
-214;Tocantins;(m3);Biodiesel;2016;379230;Renovável
-215;Tocantins;(mil m3);Etanol anidro e hidratado;2016;16197;Renovável
-216;Acre;(mil m3);Etanol anidro e hidratado;2017;0;Renovável
-217;Alagoas;(mil barris);LGN;2017;5020;Fóssil
-218;Alagoas;(mil barris);Petroleo;2017;16390;Fóssil
-219;Alagoas;(mil m3);Etanol anidro e hidratado;2017;31188;Renovável
-220;Alagoas;(milhoes de m3);Gas Natural;2017;3917;Fóssil
-221;Amazonas;(mil barris);LGN;2017;57230;Fóssil
-222;Amazonas;(mil barris);Petroleo;2017;74820;Fóssil
-223;Amazonas;(mil m3);Etanol anidro e hidratado;2017;485;Renovável
-224;Amazonas;(milhoes de m3);Gas Natural;2017;47564;Fóssil
-225;Bahia;(m3);Biodiesel;2017;2909450;Renovável
-226;Bahia;(mil barris);LGN;2017;9600;Fóssil
-227;Bahia;(mil barris);Petroleo;2017;136910;Fóssil
-228;Bahia;(mil m3);Etanol anidro e hidratado;2017;18077;Renovável
-229;Bahia;(milhoes de m3);Gas Natural;2017;25873;Fóssil
-230;Ceara;(m3);Biodiesel;2017;0;Renovável
-231;Ceara;(m3);Biometano;2017;0;Renovável
-232;Ceara;(mil barris);LGN;2017;0;Fóssil
-233;Ceara;(mil barris);Petroleo;2017;60380;Fóssil
-234;Ceara;(mil m3);Etanol anidro e hidratado;2017;0;Renovável
-235;Ceara;(milhoes de m3);Gas Natural;2017;305;Fóssil
-236;Espirito Santo;(mil barris);LGN;2017;59690;Fóssil
-237;Espirito Santo;(mil barris);Petroleo;2017;1377600;Fóssil
-238;Espirito Santo;(mil m3);Etanol anidro e hidratado;2017;9065;Renovável
-239;Espirito Santo;(milhoes de m3);Gas Natural;2017;40216;Fóssil
-240;Goias;(m3);Biodiesel;2017;7165700;Renovável
-241;Goias;(mil m3);Etanol anidro e hidratado;2017;487478;Renovável
-242;Maranhao;(mil barris);Petroleo;2017;1300;Fóssil
-243;Maranhao;(mil m3);Etanol anidro e hidratado;2017;16256;Renovável
-244;Maranhao;(milhoes de m3);Gas Natural;2017;16172;Fóssil
-245;Mato Grosso;(m3);Biodiesel;2017;9140020;Renovável
-246;Mato Grosso;(mil m3);Etanol anidro e hidratado;2017;141509;Renovável
-247;Mato Grosso do Sul;(m3);Biodiesel;2017;2657070;Renovável
-248;Mato Grosso do Sul;(mil m3);Etanol anidro e hidratado;2017;266806;Renovável
-249;Minas Gerais;(m3);Biodiesel;2017;1181360;Renovável
-250;Minas Gerais;(mil m3);Etanol anidro e hidratado;2017;27054;Renovável
-251;Para;(m3);Biodiesel;2017;0;Renovável
-252;Para;(mil m3);Etanol anidro e hidratado;2017;5162;Renovável
-253;Paraiba;(mil m3);Etanol anidro e hidratado;2017;32963;Renovável
-254;Parana;(m3);Biodiesel;2017;5042330;Renovável
-255;Parana;(mil m3);Etanol anidro e hidratado;2017;129137;Renovável
-256;Parana;(milhoes de m3);Gas Natural;2017;0;Fóssil
-257;Pernambuco;(mil m3);Etanol anidro e hidratado;2017;27945;Renovável
-258;Piaui;(m3);Biodiesel;2017;0;Renovável
-259;Piaui;(mil m3);Etanol anidro e hidratado;2017;204;Renovável
-260;Rio Grande do Norte;(m3);Biodiesel;2017;0;Renovável
-261;Rio Grande do Norte;(mil barris);LGN;2017;9650;Fóssil
-262;Rio Grande do Norte;(mil barris);Petroleo;2017;173010;Fóssil
-263;Rio Grande do Norte;(mil m3);Etanol anidro e hidratado;2017;6635;Renovável
-264;Rio Grande do Norte;(milhoes de m3);Gas Natural;2017;3994;Fóssil
-265;Rio Grande do Sul;(m3);Biodiesel;2017;11359760;Renovável
-266;Rio Grande do Sul;(mil m3);Etanol anidro e hidratado;2017;249;Renovável
-267;Rio de Janeiro;(m3);Biodiesel;2017;582370;Renovável
-268;Rio de Janeiro;(m3);Biometano;2017;0;Renovável
-269;Rio de Janeiro;(mil barris);LGN;2017;75090;Fóssil
-270;Rio de Janeiro;(mil barris);Petroleo;2017;6508540;Fóssil
-271;Rio de Janeiro;(mil m3);Etanol anidro e hidratado;2017;5389;Renovável
-272;Rio de Janeiro;(milhoes de m3);Gas Natural;2017;186151;Fóssil
-273;Rondonia;(m3);Biodiesel;2017;72600;Renovável
-274;Rondonia;(mil m3);Etanol anidro e hidratado;2017;49;Renovável
-275;Santa Catarina;(m3);Biodiesel;2017;1219650;Renovável
-276;Sao Paulo;(m3);Biodiesel;2017;1562460;Renovável
-277;Sao Paulo;(m3);Biometano;2017;0;Renovável
-278;Sao Paulo;(mil barris);LGN;2017;183450;Fóssil
-279;Sao Paulo;(mil barris);Petroleo;2017;1200140;Fóssil
-280;Sao Paulo;(mil m3);Etanol anidro e hidratado;2017;1383859;Renovável
-281;Sao Paulo;(milhoes de m3);Gas Natural;2017;68863;Fóssil
-282;Sergipe;(mil barris);LGN;2017;5520;Fóssil
-283;Sergipe;(mil barris);Petroleo;2017;84710;Fóssil
-284;Sergipe;(mil m3);Etanol anidro e hidratado;2017;6374;Renovável
-285;Sergipe;(milhoes de m3);Gas Natural;2017;8118;Fóssil
-286;Tocantins;(m3);Biodiesel;2017;5610;Renovável
-287;Tocantins;(mil m3);Etanol anidro e hidratado;2017;17627;Renovável
-288;Acre;(mil m3);Etanol anidro e hidratado;2018;0;Renovável
-289;Alagoas;(mil barris);LGN;2018;5140;Fóssil
-290;Alagoas;(mil barris);Petroleo;2018;97200;Fóssil
-291;Alagoas;(mil m3);Etanol anidro e hidratado;2018;4641;Renovável
-292;Alagoas;(milhoes de m3);Gas Natural;2018;4075;Fóssil
-293;Amazonas;(mil barris);LGN;2018;62250;Fóssil
-294;Amazonas;(mil barris);Petroleo;2018;74620;Fóssil
-295;Amazonas;(mil m3);Etanol anidro e hidratado;2018;547;Renovável
-296;Amazonas;(milhoes de m3);Gas Natural;2018;52160;Fóssil
-297;Bahia;(m3);Biodiesel;2018;3763380;Renovável
-298;Bahia;(mil barris);LGN;2018;9360;Fóssil
-299;Bahia;(mil barris);Petroleo;2018;125160;Fóssil
-300;Bahia;(mil m3);Etanol anidro e hidratado;2018;2457;Renovável
-301;Bahia;(milhoes de m3);Gas Natural;2018;25530;Fóssil
-302;Ceara;(m3);Biodiesel;2018;0;Renovável
-303;Ceara;(m3);Biometano;2018;0;Renovável
-304;Ceara;(mil barris);LGN;2018;0;Fóssil
-305;Ceara;(mil barris);Petroleo;2018;54240;Fóssil
-306;Ceara;(mil m3);Etanol anidro e hidratado;2018;0;Renovável
-307;Ceara;(milhoes de m3);Gas Natural;2018;357;Fóssil
-308;Espirito Santo;(mil barris);LGN;2018;54760;Fóssil
-309;Espirito Santo;(mil barris);Petroleo;2018;1223090;Fóssil
-310;Espirito Santo;(mil m3);Etanol anidro e hidratado;2018;12757;Renovável
-311;Espirito Santo;(milhoes de m3);Gas Natural;2018;34629;Fóssil
-312;Goias;(m3);Biodiesel;2018;7581960;Renovável
-313;Goias;(mil m3);Etanol anidro e hidratado;2018;449143;Renovável
-314;Maranhao;(mil barris);Petroleo;2018;1500;Fóssil
-315;Maranhao;(mil m3);Etanol anidro e hidratado;2018;14762;Renovável
-316;Maranhao;(milhoes de m3);Gas Natural;2018;14109;Fóssil
-317;Mato Grosso;(m3);Biodiesel;2018;11195520;Renovável
-318;Mato Grosso;(mil m3);Etanol anidro e hidratado;2018;175728;Renovável
-319;Mato Grosso do Sul;(m3);Biodiesel;2018;3244830;Renovável
-320;Mato Grosso do Sul;(mil m3);Etanol anidro e hidratado;2018;326448;Renovável
-321;Minas Gerais;(m3);Biodiesel;2018;1279460;Renovável
-322;Minas Gerais;(mil m3);Etanol anidro e hidratado;2018;32576;Renovável
-323;Para;(m3);Biodiesel;2018;0;Renovável
-324;Para;(mil m3);Etanol anidro e hidratado;2018;4346;Renovável
-325;Paraiba;(mil m3);Etanol anidro e hidratado;2018;43104;Renovável
-326;Parana;(m3);Biodiesel;2018;6018210;Renovável
-327;Parana;(mil m3);Etanol anidro e hidratado;2018;162401;Renovável
-328;Parana;(milhoes de m3);Gas Natural;2018;0;Fóssil
-329;Pernambuco;(mil m3);Etanol anidro e hidratado;2018;46551;Renovável
-330;Piaui;(m3);Biodiesel;2018;0;Renovável
-331;Piaui;(mil m3);Etanol anidro e hidratado;2018;3748;Renovável
-332;Rio Grande do Norte;(m3);Biodiesel;2018;0;Renovável
-333;Rio Grande do Norte;(mil barris);LGN;2018;8490;Fóssil
-334;Rio Grande do Norte;(mil barris);Petroleo;2018;14700;Fóssil
-335;Rio Grande do Norte;(mil m3);Etanol anidro e hidratado;2018;1149;Renovável
-336;Rio Grande do Norte;(milhoes de m3);Gas Natural;2018;3514;Fóssil
-337;Rio Grande do Sul;(m3);Biodiesel;2018;14750800;Renovável
-338;Rio Grande do Sul;(mil m3);Etanol anidro e hidratado;2018;219;Renovável
-339;Rio de Janeiro;(m3);Biodiesel;2018;961030;Renovável
-340;Rio de Janeiro;(m3);Biometano;2018;0;Renovável
-341;Rio de Janeiro;(mil barris);LGN;2018;56810;Fóssil
-342;Rio de Janeiro;(mil barris);Petroleo;2018;6628180;Fóssil
-343;Rio de Janeiro;(mil m3);Etanol anidro e hidratado;2018;9726;Renovável
-344;Rio de Janeiro;(milhoes de m3);Gas Natural;2018;201976;Fóssil
-345;Rondonia;(m3);Biodiesel;2018;162320;Renovável
-346;Rondonia;(mil m3);Etanol anidro e hidratado;2018;139;Renovável
-347;Santa Catarina;(m3);Biodiesel;2018;1221310;Renovável
-348;Sao Paulo;(m3);Biodiesel;2018;2336530;Renovável
-349;Sao Paulo;(m3);Biometano;2018;0;Renovável
-350;Sao Paulo;(mil barris);LGN;2018;190480;Fóssil
-351;Sao Paulo;(mil barris);Petroleo;2018;1164640;Fóssil
-352;Sao Paulo;(mil m3);Etanol anidro e hidratado;2018;162034;Renovável
-353;Sao Paulo;(milhoes de m3);Gas Natural;2018;64310;Fóssil
-354;Sergipe;(mil barris);LGN;2018;4540;Fóssil
-355;Sergipe;(mil barris);Petroleo;2018;66290;Fóssil
-356;Sergipe;(mil m3);Etanol anidro e hidratado;2018;1042;Renovável
-357;Sergipe;(milhoes de m3);Gas Natural;2018;7913;Fóssil
-358;Tocantins;(m3);Biodiesel;2018;851010;Renovável
-359;Tocantins;(mil m3);Etanol anidro e hidratado;2018;15522;Renovável
-360;Acre;(mil m3);Etanol anidro e hidratado;2019;0;Renovável
-361;Alagoas;(mil barris);LGN;2019;3690;Fóssil
-362;Alagoas;(mil barris);Petroleo;2019;97531;Fóssil
-363;Alagoas;(mil m3);Etanol anidro e hidratado;2019;50316;Renovável
-364;Alagoas;(milhoes de m3);Gas Natural;2019;3145;Fóssil
-365;Amazonas;(mil barris);LGN;2019;59950;Fóssil
-366;Amazonas;(mil barris);Petroleo;2019;68140;Fóssil
-367;Amazonas;(mil m3);Etanol anidro e hidratado;2019;882;Renovável
-368;Amazonas;(milhoes de m3);Gas Natural;2019;55711;Fóssil
-369;Bahia;(m3);Biodiesel;2019;4543260;Renovável
-370;Bahia;(mil barris);LGN;2019;8800;Fóssil
-371;Bahia;(mil barris);Petroleo;2019;102630;Fóssil
-372;Bahia;(mil m3);Etanol anidro e hidratado;2019;2491;Renovável
-373;Bahia;(milhoes de m3);Gas Natural;2019;20827;Fóssil
-374;Ceara;(m3);Biodiesel;2019;0;Renovável
-375;Ceara;(m3);Biometano;2019;0;Renovável
-376;Ceara;(mil barris);LGN;2019;0;Fóssil
-377;Ceara;(mil barris);Petroleo;2019;18550;Fóssil
-378;Ceara;(mil m3);Etanol anidro e hidratado;2019;0;Renovável
-379;Ceara;(milhoes de m3);Gas Natural;2019;284;Fóssil
-380;Espirito Santo;(mil barris);LGN;2019;56490;Fóssil
-381;Espirito Santo;(mil barris);Petroleo;2019;1049890;Fóssil
-382;Espirito Santo;(mil m3);Etanol anidro e hidratado;2019;12097;Renovável
-383;Espirito Santo;(milhoes de m3);Gas Natural;2019;26717;Fóssil
-384;Goias;(m3);Biodiesel;2019;8650510;Renovável
-385;Goias;(mil m3);Etanol anidro e hidratado;2019;547074;Renovável
-386;Maranhao;(mil barris);Petroleo;2019;200;Fóssil
-387;Maranhao;(mil m3);Etanol anidro e hidratado;2019;16774;Renovável
-388;Maranhao;(milhoes de m3);Gas Natural;2019;13951;Fóssil
-389;Mato Grosso;(m3);Biodiesel;2019;12349720;Renovável
-390;Mato Grosso;(mil m3);Etanol anidro e hidratado;2019;225438;Renovável
-391;Mato Grosso do Sul;(m3);Biodiesel;2019;3434570;Renovável
-392;Mato Grosso do Sul;(mil m3);Etanol anidro e hidratado;2019;33072;Renovável
-393;Minas Gerais;(m3);Biodiesel;2019;1311120;Renovável
-394;Minas Gerais;(mil m3);Etanol anidro e hidratado;2019;357921;Renovável
-395;Para;(m3);Biodiesel;2019;0;Renovável
-396;Para;(mil m3);Etanol anidro e hidratado;2019;6123;Renovável
-397;Paraiba;(mil m3);Etanol anidro e hidratado;2019;35903;Renovável
-398;Parana;(m3);Biodiesel;2019;6299470;Renovável
-399;Parana;(mil m3);Etanol anidro e hidratado;2019;166463;Renovável
-400;Parana;(milhoes de m3);Gas Natural;2019;0;Fóssil
-401;Pernambuco;(mil m3);Etanol anidro e hidratado;2019;36796;Renovável
-402;Piaui;(m3);Biodiesel;2019;0;Renovável
-403;Piaui;(mil m3);Etanol anidro e hidratado;2019;4646;Renovável
-404;Rio Grande do Norte;(m3);Biodiesel;2019;0;Renovável
-405;Rio Grande do Norte;(mil barris);LGN;2019;8190;Fóssil
-406;Rio Grande do Norte;(mil barris);Petroleo;2019;139100;Fóssil
-407;Rio Grande do Norte;(mil m3);Etanol anidro e hidratado;2019;10964;Renovável
-408;Rio Grande do Norte;(milhoes de m3);Gas Natural;2019;3348;Fóssil
-409;Rio Grande do Sul;(m3);Biodiesel;2019;16363360;Renovável
-410;Rio Grande do Sul;(mil m3);Etanol anidro e hidratado;2019;164;Renovável
-411;Rio de Janeiro;(m3);Biodiesel;2019;1376730;Renovável
-412;Rio de Janeiro;(m3);Biometano;2019;0;Renovável
-413;Rio de Janeiro;(mil barris);LGN;2019;43300;Fóssil
-414;Rio de Janeiro;(mil barris);Petroleo;2019;7658690;Fóssil
-415;Rio de Janeiro;(mil m3);Etanol anidro e hidratado;2019;9162;Renovável
-416;Rio de Janeiro;(milhoes de m3);Gas Natural;2019;249862;Fóssil
-417;Rondonia;(m3);Biodiesel;2019;158620;Renovável
-418;Rondonia;(mil m3);Etanol anidro e hidratado;2019;485;Renovável
-419;Santa Catarina;(m3);Biodiesel;2019;1304730;Renovável
-420;Sao Paulo;(m3);Biodiesel;2019;2310900;Renovável
-421;Sao Paulo;(m3);Biometano;2019;0;Renovável
-422;Sao Paulo;(mil barris);LGN;2019;193090;Fóssil
-423;Sao Paulo;(mil barris);Petroleo;2019;1074600;Fóssil
-424;Sao Paulo;(mil m3);Etanol anidro e hidratado;2019;1666825;Renovável
-425;Sao Paulo;(milhoes de m3);Gas Natural;2019;66942;Fóssil
-426;Sergipe;(mil barris);LGN;2019;3480;Fóssil
-427;Sergipe;(mil barris);Petroleo;2019;53750;Fóssil
-428;Sergipe;(mil m3);Etanol anidro e hidratado;2019;10183;Renovável
-429;Sergipe;(milhoes de m3);Gas Natural;2019;6454;Fóssil
-430;Tocantins;(m3);Biodiesel;2019;924890;Renovável
-431;Tocantins;(mil m3);Etanol anidro e hidratado;2019;16637;Renovável
-432;Acre;(mil m3);Etanol anidro e hidratado;2020;0;Renovável
-433;Alagoas;(mil barris);LGN;2020;3890;Fóssil
-434;Alagoas;(mil barris);Petroleo;2020;93000;Fóssil
-435;Alagoas;(mil m3);Etanol anidro e hidratado;2020;42589;Renovável
-436;Alagoas;(milhoes de m3);Gas Natural;2020;3095;Fóssil
-437;Amazonas;(mil barris);LGN;2020;57480;Fóssil
-438;Amazonas;(mil barris);Petroleo;2020;57770;Fóssil
-439;Amazonas;(mil m3);Etanol anidro e hidratado;2020;901;Renovável
-440;Amazonas;(milhoes de m3);Gas Natural;2020;49572;Fóssil
-441;Bahia;(m3);Biodiesel;2020;4385810;Renovável
-442;Bahia;(mil barris);LGN;2020;6740;Fóssil
-443;Bahia;(mil barris);Petroleo;2020;100620;Fóssil
-444;Bahia;(mil m3);Etanol anidro e hidratado;2020;27355;Renovável
-445;Bahia;(milhoes de m3);Gas Natural;2020;15631;Fóssil
-446;Ceara;(m3);Biodiesel;2020;0;Renovável
-447;Ceara;(m3);Biometano;2020;247921090;Renovável
-448;Ceara;(mil barris);LGN;2020;0;Fóssil
-449;Ceara;(mil barris);Petroleo;2020;58800;Fóssil
-450;Ceara;(mil m3);Etanol anidro e hidratado;2020;0;Renovável
-451;Ceara;(milhoes de m3);Gas Natural;2020;62;Fóssil
-452;Espirito Santo;(mil barris);LGN;2020;57520;Fóssil
-453;Espirito Santo;(mil barris);Petroleo;2020;904000;Fóssil
-454;Espirito Santo;(mil m3);Etanol anidro e hidratado;2020;8969;Renovável
-455;Espirito Santo;(milhoes de m3);Gas Natural;2020;23038;Fóssil
-456;Goias;(m3);Biodiesel;2020;8784980;Renovável
-457;Goias;(mil m3);Etanol anidro e hidratado;2020;531805;Renovável
-458;Maranhao;(mil barris);Petroleo;2020;2400;Fóssil
-459;Maranhao;(mil m3);Etanol anidro e hidratado;2020;17455;Renovável
-460;Maranhao;(milhoes de m3);Gas Natural;2020;13504;Fóssil
-461;Mato Grosso;(m3);Biodiesel;2020;13833840;Renovável
-462;Mato Grosso;(mil m3);Etanol anidro e hidratado;2020;312387;Renovável
-463;Mato Grosso do Sul;(m3);Biodiesel;2020;3088900;Renovável
-464;Mato Grosso do Sul;(mil m3);Etanol anidro e hidratado;2020;287725;Renovável
-465;Minas Gerais;(m3);Biodiesel;2020;1318880;Renovável
-466;Minas Gerais;(mil m3);Etanol anidro e hidratado;2020;307821;Renovável
-467;Para;(m3);Biodiesel;2020;0;Renovável
-468;Para;(mil m3);Etanol anidro e hidratado;2020;5034;Renovável
-469;Paraiba;(mil m3);Etanol anidro e hidratado;2020;39553;Renovável
-470;Parana;(m3);Biodiesel;2020;7682400;Renovável
-471;Parana;(mil m3);Etanol anidro e hidratado;2020;126387;Renovável
-472;Parana;(milhoes de m3);Gas Natural;2020;0;Fóssil
-473;Pernambuco;(mil m3);Etanol anidro e hidratado;2020;39502;Renovável
-474;Piaui;(m3);Biodiesel;2020;396430;Renovável
-475;Piaui;(mil m3);Etanol anidro e hidratado;2020;3861;Renovável
-476;Rio Grande do Norte;(m3);Biodiesel;2020;0;Renovável
-477;Rio Grande do Norte;(mil barris);LGN;2020;5410;Fóssil
-478;Rio Grande do Norte;(mil barris);Petroleo;2020;214230;Fóssil
-479;Rio Grande do Norte;(mil m3);Etanol anidro e hidratado;2020;1183;Renovável
-480;Rio Grande do Norte;(milhoes de m3);Gas Natural;2020;2449;Fóssil
-481;Rio Grande do Sul;(m3);Biodiesel;2020;18332670;Renovável
-482;Rio Grande do Sul;(mil m3);Etanol anidro e hidratado;2020;9;Renovável
-483;Rio de Janeiro;(m3);Biodiesel;2020;1412990;Renovável
-484;Rio de Janeiro;(m3);Biometano;2020;113513270;Renovável
-485;Rio de Janeiro;(mil barris);LGN;2020;32200;Fóssil
-486;Rio de Janeiro;(mil barris);Petroleo;2020;8538030;Fóssil
-487;Rio de Janeiro;(mil m3);Etanol anidro e hidratado;2020;13739;Renovável
-488;Rio de Janeiro;(milhoes de m3);Gas Natural;2020;295666;Fóssil
-489;Rondonia;(m3);Biodiesel;2020;68540;Renovável
-490;Rondonia;(mil m3);Etanol anidro e hidratado;2020;7;Renovável
-491;Santa Catarina;(m3);Biodiesel;2020;1399450;Renovável
-492;Sao Paulo;(m3);Biodiesel;2020;2329330;Renovável
-493;Sao Paulo;(m3);Biometano;2020;0;Renovável
-494;Sao Paulo;(mil barris);LGN;2020;201540;Fóssil
-495;Sao Paulo;(mil barris);Petroleo;2020;982260;Fóssil
-496;Sao Paulo;(mil m3);Etanol anidro e hidratado;2020;1448127;Renovável
-497;Sao Paulo;(milhoes de m3);Gas Natural;2020;61560;Fóssil
-498;Sergipe;(mil barris);LGN;2020;1060;Fóssil
-499;Sergipe;(mil barris);Petroleo;2020;109160;Fóssil
-500;Sergipe;(mil m3);Etanol anidro e hidratado;2020;9716;Renovável
-501;Sergipe;(milhoes de m3);Gas Natural;2020;1734;Fóssil
-502;Tocantins;(m3);Biodiesel;2020;1417570;Renovável
-503;Tocantins;(mil m3);Etanol anidro e hidratado;2020;1745;Renovável
-504;Acre;(mil m3);Etanol anidro e hidratado;2021;0;Renovável
-505;Alagoas;(mil barris);LGN;2021;2960;Fóssil
-506;Alagoas;(mil barris);Petroleo;2021;6740;Fóssil
-507;Alagoas;(mil m3);Etanol anidro e hidratado;2021;42361;Renovável
-508;Alagoas;(milhoes de m3);Gas Natural;2021;2018;Fóssil
-509;Amazonas;(mil barris);LGN;2021;54060;Fóssil
-510;Amazonas;(mil barris);Petroleo;2021;53280;Fóssil
-511;Amazonas;(mil m3);Etanol anidro e hidratado;2021;639;Renovável
-512;Amazonas;(milhoes de m3);Gas Natural;2021;49571;Fóssil
-513;Bahia;(m3);Biodiesel;2021;4104300;Renovável
-514;Bahia;(mil barris);LGN;2021;6470;Fóssil
-515;Bahia;(mil barris);Petroleo;2021;81910;Fóssil
-516;Bahia;(mil m3);Etanol anidro e hidratado;2021;31154;Renovável
-517;Bahia;(milhoes de m3);Gas Natural;2021;19829;Fóssil
-518;Ceara;(m3);Biodiesel;2021;0;Renovável
-519;Ceara;(m3);Biometano;2021;245916970;Renovável
-520;Ceara;(mil barris);LGN;2021;0;Fóssil
-521;Ceara;(mil barris);Petroleo;2021;2470;Fóssil
-522;Ceara;(mil m3);Etanol anidro e hidratado;2021;0;Renovável
-523;Ceara;(milhoes de m3);Gas Natural;2021;3;Fóssil
-524;Espirito Santo;(mil barris);LGN;2021;50970;Fóssil
-525;Espirito Santo;(mil barris);Petroleo;2021;768800;Fóssil
-526;Espirito Santo;(mil m3);Etanol anidro e hidratado;2021;9302;Renovável
-527;Espirito Santo;(milhoes de m3);Gas Natural;2021;19973;Fóssil
-528;Goias;(m3);Biodiesel;2021;9646410;Renovável
-529;Goias;(mil m3);Etanol anidro e hidratado;2021;497971;Renovável
-530;Maranhao;(mil barris);Petroleo;2021;300;Fóssil
-531;Maranhao;(mil m3);Etanol anidro e hidratado;2021;16433;Renovável
-532;Maranhao;(milhoes de m3);Gas Natural;2021;21411;Fóssil
-533;Mato Grosso;(m3);Biodiesel;2021;13215940;Renovável
-534;Mato Grosso;(mil m3);Etanol anidro e hidratado;2021;393536;Renovável
-535;Mato Grosso do Sul;(m3);Biodiesel;2021;2797690;Renovável
-536;Mato Grosso do Sul;(mil m3);Etanol anidro e hidratado;2021;26367;Renovável
-537;Minas Gerais;(m3);Biodiesel;2021;1122010;Renovável
-538;Minas Gerais;(mil m3);Etanol anidro e hidratado;2021;283928;Renovável
-539;Para;(m3);Biodiesel;2021;0;Renovável
-540;Para;(mil m3);Etanol anidro e hidratado;2021;5498;Renovável
-541;Paraiba;(mil m3);Etanol anidro e hidratado;2021;36288;Renovável
-542;Parana;(m3);Biodiesel;2021;12160480;Renovável
-543;Parana;(mil m3);Etanol anidro e hidratado;2021;119362;Renovável
-544;Parana;(milhoes de m3);Gas Natural;2021;0;Fóssil
-545;Pernambuco;(mil m3);Etanol anidro e hidratado;2021;32088;Renovável
-546;Piaui;(m3);Biodiesel;2021;423920;Renovável
-547;Piaui;(mil m3);Etanol anidro e hidratado;2021;4414;Renovável
-548;Rio Grande do Norte;(m3);Biodiesel;2021;0;Renovável
-549;Rio Grande do Norte;(mil barris);LGN;2021;5270;Fóssil
-550;Rio Grande do Norte;(mil barris);Petroleo;2021;122270;Fóssil
-551;Rio Grande do Norte;(mil m3);Etanol anidro e hidratado;2021;10178;Renovável
-552;Rio Grande do Norte;(milhoes de m3);Gas Natural;2021;2449;Fóssil
-553;Rio Grande do Sul;(m3);Biodiesel;2021;18642910;Renovável
-554;Rio Grande do Sul;(mil m3);Etanol anidro e hidratado;2021;0;Renovável
-555;Rio de Janeiro;(m3);Biodiesel;2021;1378780;Renovável
-556;Rio de Janeiro;(m3);Biometano;2021;284517240;Renovável
-557;Rio de Janeiro;(mil barris);LGN;2021;31150;Fóssil
-558;Rio de Janeiro;(mil barris);Petroleo;2021;8546620;Fóssil
-559;Rio de Janeiro;(mil m3);Etanol anidro e hidratado;2021;12634;Renovável
-560;Rio de Janeiro;(milhoes de m3);Gas Natural;2021;312233;Fóssil
-561;Rondonia;(m3);Biodiesel;2021;37240;Renovável
-562;Rondonia;(mil m3);Etanol anidro e hidratado;2021;0;Renovável
-563;Santa Catarina;(m3);Biodiesel;2021;1017980;Renovável
-564;Sao Paulo;(m3);Biodiesel;2021;1751980;Renovável
-565;Sao Paulo;(m3);Biometano;2021;0;Renovável
-566;Sao Paulo;(mil barris);LGN;2021;180530;Fóssil
-567;Sao Paulo;(mil barris);Petroleo;2021;992260;Fóssil
-568;Sao Paulo;(mil m3);Etanol anidro e hidratado;2021;121255;Renovável
-569;Sao Paulo;(milhoes de m3);Gas Natural;2021;60572;Fóssil
-570;Sergipe;(mil barris);LGN;2021;0;Fóssil
-571;Sergipe;(mil barris);Petroleo;2021;29030;Fóssil
-572;Sergipe;(mil m3);Etanol anidro e hidratado;2021;1130;Renovável
-573;Sergipe;(milhoes de m3);Gas Natural;2021;182;Fóssil
-574;Tocantins;(m3);Biodiesel;2021;1406980;Renovável
-575;Tocantins;(mil m3);Etanol anidro e hidratado;2021;19501;Renovável
-576;Acre;(mil m3);Etanol anidro e hidratado;2022;0;Renovável
-577;Alagoas;(mil barris);LGN;2022;280;Fóssil
-578;Alagoas;(mil barris);Petroleo;2022;8820;Fóssil
-579;Alagoas;(mil m3);Etanol anidro e hidratado;2022;38491;Renovável
-580;Alagoas;(milhoes de m3);Gas Natural;2022;2740;Fóssil
-581;Amazonas;(mil barris);LGN;2022;50990;Fóssil
-582;Amazonas;(mil barris);Petroleo;2022;49000;Fóssil
-583;Amazonas;(mil m3);Etanol anidro e hidratado;2022;59;Renovável
-584;Amazonas;(milhoes de m3);Gas Natural;2022;50676;Fóssil
-585;Bahia;(m3);Biodiesel;2022;5773000;Renovável
-586;Bahia;(mil barris);LGN;2022;7660;Fóssil
-587;Bahia;(mil barris);Petroleo;2022;72240;Fóssil
-588;Bahia;(mil m3);Etanol anidro e hidratado;2022;33491;Renovável
-589;Bahia;(milhoes de m3);Gas Natural;2022;17889;Fóssil
-590;Ceara;(m3);Biodiesel;2022;0;Renovável
-591;Ceara;(m3);Biometano;2022;286624650;Renovável
-592;Ceara;(mil barris);LGN;2022;0;Fóssil
-593;Ceara;(mil barris);Petroleo;2022;2230;Fóssil
-594;Ceara;(mil m3);Etanol anidro e hidratado;2022;0;Renovável
-595;Ceara;(milhoes de m3);Gas Natural;2022;3;Fóssil
-596;Espirito Santo;(mil barris);LGN;2022;34060;Fóssil
-597;Espirito Santo;(mil barris);Petroleo;2022;502820;Fóssil
-598;Espirito Santo;(mil m3);Etanol anidro e hidratado;2022;1039;Renovável
-599;Espirito Santo;(milhoes de m3);Gas Natural;2022;12439;Fóssil
-600;Goias;(m3);Biodiesel;2022;11038620;Renovável
-601;Goias;(mil m3);Etanol anidro e hidratado;2022;512452;Renovável
-602;Maranhao;(mil barris);Petroleo;2022;140;Fóssil
-603;Maranhao;(mil m3);Etanol anidro e hidratado;2022;14311;Renovável
-604;Maranhao;(milhoes de m3);Gas Natural;2022;9278;Fóssil
-605;Mato Grosso;(m3);Biodiesel;2022;10653660;Renovável
-606;Mato Grosso;(mil m3);Etanol anidro e hidratado;2022;430952;Renovável
-607;Mato Grosso do Sul;(m3);Biodiesel;2022;1895980;Renovável
-608;Mato Grosso do Sul;(mil m3);Etanol anidro e hidratado;2022;307747;Renovável
-609;Minas Gerais;(m3);Biodiesel;2022;1280930;Renovável
-610;Minas Gerais;(mil m3);Etanol anidro e hidratado;2022;289495;Renovável
-611;Para;(m3);Biodiesel;2022;495770;Renovável
-612;Para;(mil m3);Etanol anidro e hidratado;2022;5277;Renovável
-613;Paraiba;(mil m3);Etanol anidro e hidratado;2022;36186;Renovável
-614;Parana;(m3);Biodiesel;2022;8440460;Renovável
-615;Parana;(mil m3);Etanol anidro e hidratado;2022;108755;Renovável
-616;Parana;(milhoes de m3);Gas Natural;2022;41;Fóssil
-617;Pernambuco;(mil m3);Etanol anidro e hidratado;2022;30874;Renovável
-618;Piaui;(m3);Biodiesel;2022;542900;Renovável
-619;Piaui;(mil m3);Etanol anidro e hidratado;2022;4503;Renovável
-620;Rio Grande do Norte;(m3);Biodiesel;2022;0;Renovável
-621;Rio Grande do Norte;(mil barris);LGN;2022;2480;Fóssil
-622;Rio Grande do Norte;(mil barris);Petroleo;2022;119930;Fóssil
-623;Rio Grande do Norte;(mil m3);Etanol anidro e hidratado;2022;9181;Renovável
-624;Rio Grande do Norte;(milhoes de m3);Gas Natural;2022;3370;Fóssil
-625;Rio Grande do Sul;(m3);Biodiesel;2022;15259290;Renovável
-626;Rio Grande do Sul;(mil m3);Etanol anidro e hidratado;2022;1;Renovável
-627;Rio de Janeiro;(m3);Biodiesel;2022;1340930;Renovável
-628;Rio de Janeiro;(m3);Biometano;2022;369096850;Renovável
-629;Rio de Janeiro;(mil barris);LGN;2022;47740;Fóssil
-630;Rio de Janeiro;(mil barris);Petroleo;2022;9324310;Fóssil
-631;Rio de Janeiro;(mil m3);Etanol anidro e hidratado;2022;11017;Renovável
-632;Rio de Janeiro;(milhoes de m3);Gas Natural;2022;347765;Fóssil
-633;Rondonia;(m3);Biodiesel;2022;185550;Renovável
-634;Rondonia;(mil m3);Etanol anidro e hidratado;2022;0;Renovável
-635;Santa Catarina;(m3);Biodiesel;2022;2833180;Renovável
-636;Sao Paulo;(m3);Biodiesel;2022;1860140;Renovável
-637;Sao Paulo;(m3);Biometano;2022;11097470;Renovável
-638;Sao Paulo;(mil barris);LGN;2022;191470;Fóssil
-639;Sao Paulo;(mil barris);Petroleo;2022;935380;Fóssil
-640;Sao Paulo;(mil m3);Etanol anidro e hidratado;2022;1191128;Renovável
-641;Sao Paulo;(milhoes de m3);Gas Natural;2022;59090;Fóssil
-642;Sergipe;(mil barris);LGN;2022;0;Fóssil
-643;Sergipe;(mil barris);Petroleo;2022;13640;Fóssil
-644;Sergipe;(mil m3);Etanol anidro e hidratado;2022;7911;Renovável
-645;Sergipe;(milhoes de m3);Gas Natural;2022;91;Fóssil
-646;Tocantins;(m3);Biodiesel;2022;946690;Renovável
-647;Tocantins;(mil m3);Etanol anidro e hidratado;2022;20958;Renovável
-648;Acre;(mil m3);Etanol anidro e hidratado;2023;0;Renovável
-649;Alagoas;(mil barris);LGN;2023;5470;Fóssil
-650;Alagoas;(mil barris);Petroleo;2023;9080;Fóssil
-651;Alagoas;(mil m3);Etanol anidro e hidratado;2023;51168;Renovável
-652;Alagoas;(milhoes de m3);Gas Natural;2023;4366;Fóssil
-653;Amazonas;(mil barris);LGN;2023;50920;Fóssil
-654;Amazonas;(mil barris);Petroleo;2023;45040;Fóssil
-655;Amazonas;(mil m3);Etanol anidro e hidratado;2023;681;Renovável
-656;Amazonas;(milhoes de m3);Gas Natural;2023;52137;Fóssil
-657;Bahia;(m3);Biodiesel;2023;5586710;Renovável
-658;Bahia;(mil barris);LGN;2023;2450;Fóssil
-659;Bahia;(mil barris);Petroleo;2023;58580;Fóssil
-660;Bahia;(mil m3);Etanol anidro e hidratado;2023;38181;Renovável
-661;Bahia;(milhoes de m3);Gas Natural;2023;15560;Fóssil
-662;Ceara;(m3);Biodiesel;2023;0;Renovável
-663;Ceara;(m3);Biometano;2023;256577930;Renovável
-664;Ceara;(mil barris);LGN;2023;0;Fóssil
-665;Ceara;(mil barris);Petroleo;2023;2650;Fóssil
-666;Ceara;(mil m3);Etanol anidro e hidratado;2023;0;Renovável
-667;Ceara;(milhoes de m3);Gas Natural;2023;3;Fóssil
-668;Espirito Santo;(mil barris);LGN;2023;33890;Fóssil
-669;Espirito Santo;(mil barris);Petroleo;2023;619710;Fóssil
-670;Espirito Santo;(mil m3);Etanol anidro e hidratado;2023;8819;Renovável
-671;Espirito Santo;(milhoes de m3);Gas Natural;2023;15262;Fóssil
-672;Goias;(m3);Biodiesel;2023;11837180;Renovável
-673;Goias;(mil m3);Etanol anidro e hidratado;2023;545738;Renovável
-674;Maranhao;(mil barris);Petroleo;2023;270;Fóssil
-675;Maranhao;(mil m3);Etanol anidro e hidratado;2023;16069;Renovável
-676;Maranhao;(milhoes de m3);Gas Natural;2023;8445;Fóssil
-677;Mato Grosso;(m3);Biodiesel;2023;15530910;Renovável
-678;Mato Grosso;(mil m3);Etanol anidro e hidratado;2023;540265;Renovável
-679;Mato Grosso do Sul;(m3);Biodiesel;2023;2993180;Renovável
-680;Mato Grosso do Sul;(mil m3);Etanol anidro e hidratado;2023;380775;Renovável
-681;Minas Gerais;(m3);Biodiesel;2023;622030;Renovável
-682;Minas Gerais;(mil m3);Etanol anidro e hidratado;2023;33047;Renovável
-683;Para;(m3);Biodiesel;2023;1288180;Renovável
-684;Para;(mil m3);Etanol anidro e hidratado;2023;5413;Renovável
-685;Paraiba;(mil m3);Etanol anidro e hidratado;2023;41927;Renovável
-686;Parana;(m3);Biodiesel;2023;10706660;Renovável
-687;Parana;(mil m3);Etanol anidro e hidratado;2023;123122;Renovável
-688;Parana;(milhoes de m3);Gas Natural;2023;94;Fóssil
-689;Pernambuco;(mil m3);Etanol anidro e hidratado;2023;32812;Renovável
-690;Piaui;(m3);Biodiesel;2023;660550;Renovável
-691;Piaui;(mil m3);Etanol anidro e hidratado;2023;4716;Renovável
-692;Rio Grande do Norte;(m3);Biodiesel;2023;0;Renovável
-693;Rio Grande do Norte;(mil barris);LGN;2023;1800;Fóssil
-694;Rio Grande do Norte;(mil barris);Petroleo;2023;118190;Fóssil
-695;Rio Grande do Norte;(mil m3);Etanol anidro e hidratado;2023;13828;Renovável
-696;Rio Grande do Norte;(milhoes de m3);Gas Natural;2023;3835;Fóssil
-697;Rio Grande do Sul;(m3);Biodiesel;2023;16986340;Renovável
-698;Rio Grande do Sul;(mil m3);Etanol anidro e hidratado;2023;2;Renovável
-699;Rio de Janeiro;(m3);Biodiesel;2023;1488650;Renovável
-700;Rio de Janeiro;(m3);Biometano;2023;426100880;Renovável
-701;Rio de Janeiro;(mil barris);LGN;2023;48750;Fóssil
-702;Rio de Janeiro;(mil barris);Petroleo;2023;10631800;Fóssil
-703;Rio de Janeiro;(mil m3);Etanol anidro e hidratado;2023;8205;Renovável
-704;Rio de Janeiro;(milhoes de m3);Gas Natural;2023;395540;Fóssil
-705;Rondonia;(m3);Biodiesel;2023;653830;Renovável
-706;Rondonia;(mil m3);Etanol anidro e hidratado;2023;0;Renovável
-707;Santa Catarina;(m3);Biodiesel;2023;3786720;Renovável
-708;Sao Paulo;(m3);Biodiesel;2023;2245120;Renovável
-709;Sao Paulo;(m3);Biometano;2023;66179110;Renovável
-710;Sao Paulo;(mil barris);LGN;2023;148490;Fóssil
-711;Sao Paulo;(mil barris);Petroleo;2023;906080;Fóssil
-712;Sao Paulo;(mil m3);Etanol anidro e hidratado;2023;1367476;Renovável
-713;Sao Paulo;(milhoes de m3);Gas Natural;2023;51338;Fóssil
-714;Sergipe;(mil barris);LGN;2023;0;Fóssil
-715;Sergipe;(mil barris);Petroleo;2023;24510;Fóssil
-716;Sergipe;(mil m3);Etanol anidro e hidratado;2023;9089;Renovável
-717;Sergipe;(milhoes de m3);Gas Natural;2023;191;Fóssil
-718;Tocantins;(m3);Biodiesel;2023;890520;Renovável
-719;Tocantins;(mil m3);Etanol anidro e hidratado;2023;19271;Renovável
+index,Unidades da Federacao,Unidade,Produto,Ano,Producao,Tipo
+0,Acre,(mil m3),Etanol anidro e hidratado,2014,0,RenovÃ¡vel
+1,Alagoas,(mil barris),LGN,2014,51600,FÃ³ssil
+2,Alagoas,(mil barris),Petroleo,2014,26690,FÃ³ssil
+3,Alagoas,(mil m3),Etanol anidro e hidratado,2014,48525,RenovÃ¡vel
+4,Alagoas,(milhoes de m3),Gas Natural,2014,5353,FÃ³ssil
+5,Amazonas,(mil barris),LGN,2014,60850,FÃ³ssil
+6,Amazonas,(mil barris),Petroleo,2014,102220,FÃ³ssil
+7,Amazonas,(mil m3),Etanol anidro e hidratado,2014,292,RenovÃ¡vel
+8,Amazonas,(milhoes de m3),Gas Natural,2014,47038,FÃ³ssil
+9,Bahia,(m3),Biodiesel,2014,1601920,RenovÃ¡vel
+10,Bahia,(mil barris),LGN,2014,14840,FÃ³ssil
+11,Bahia,(mil barris),Petroleo,2014,191920,FÃ³ssil
+12,Bahia,(mil m3),Etanol anidro e hidratado,2014,24029,RenovÃ¡vel
+13,Bahia,(milhoes de m3),Gas Natural,2014,30967,FÃ³ssil
+14,Ceara,(m3),Biodiesel,2014,729840,RenovÃ¡vel
+15,Ceara,(m3),Biometano,2014,0,RenovÃ¡vel
+16,Ceara,(mil barris),LGN,2014,5700,FÃ³ssil
+17,Ceara,(mil barris),Petroleo,2014,66810,FÃ³ssil
+18,Ceara,(mil m3),Etanol anidro e hidratado,2014,913,RenovÃ¡vel
+19,Ceara,(milhoes de m3),Gas Natural,2014,328,FÃ³ssil
+20,Espirito Santo,(mil barris),LGN,2014,6140,FÃ³ssil
+21,Espirito Santo,(mil barris),Petroleo,2014,1339740,FÃ³ssil
+22,Espirito Santo,(mil m3),Etanol anidro e hidratado,2014,16235,RenovÃ¡vel
+23,Espirito Santo,(milhoes de m3),Gas Natural,2014,47495,FÃ³ssil
+24,Goias,(m3),Biodiesel,2014,6438370,RenovÃ¡vel
+25,Goias,(mil m3),Etanol anidro e hidratado,2014,426903,RenovÃ¡vel
+26,Maranhao,(mil barris),Petroleo,2014,4300,FÃ³ssil
+27,Maranhao,(mil m3),Etanol anidro e hidratado,2014,17915,RenovÃ¡vel
+28,Maranhao,(milhoes de m3),Gas Natural,2014,19684,FÃ³ssil
+29,Mato Grosso,(m3),Biodiesel,2014,6111080,RenovÃ¡vel
+30,Mato Grosso,(mil m3),Etanol anidro e hidratado,2014,113204,RenovÃ¡vel
+31,Mato Grosso do Sul,(m3),Biodiesel,2014,2172970,RenovÃ¡vel
+32,Mato Grosso do Sul,(mil m3),Etanol anidro e hidratado,2014,234974,RenovÃ¡vel
+33,Minas Gerais,(m3),Biodiesel,2014,832830,RenovÃ¡vel
+34,Minas Gerais,(mil m3),Etanol anidro e hidratado,2014,267628,RenovÃ¡vel
+35,Para,(m3),Biodiesel,2014,0,RenovÃ¡vel
+36,Para,(mil m3),Etanol anidro e hidratado,2014,4215,RenovÃ¡vel
+37,Paraiba,(mil m3),Etanol anidro e hidratado,2014,3757,RenovÃ¡vel
+38,Parana,(m3),Biodiesel,2014,3192220,RenovÃ¡vel
+39,Parana,(mil m3),Etanol anidro e hidratado,2014,157946,RenovÃ¡vel
+40,Parana,(milhoes de m3),Gas Natural,2014,0,FÃ³ssil
+41,Pernambuco,(mil m3),Etanol anidro e hidratado,2014,33606,RenovÃ¡vel
+42,Piaui,(m3),Biodiesel,2014,0,RenovÃ¡vel
+43,Piaui,(mil m3),Etanol anidro e hidratado,2014,3251,RenovÃ¡vel
+44,Rio Grande do Norte,(m3),Biodiesel,2014,0,RenovÃ¡vel
+45,Rio Grande do Norte,(mil barris),LGN,2014,13380,FÃ³ssil
+46,Rio Grande do Norte,(mil barris),Petroleo,2014,209620,FÃ³ssil
+47,Rio Grande do Norte,(mil m3),Etanol anidro e hidratado,2014,7324,RenovÃ¡vel
+48,Rio Grande do Norte,(milhoes de m3),Gas Natural,2014,4899,FÃ³ssil
+49,Rio Grande do Sul,(m3),Biodiesel,2014,9736470,RenovÃ¡vel
+50,Rio Grande do Sul,(mil m3),Etanol anidro e hidratado,2014,44,RenovÃ¡vel
+51,Rio de Janeiro,(m3),Biodiesel,2014,172620,RenovÃ¡vel
+52,Rio de Janeiro,(m3),Biometano,2014,0,RenovÃ¡vel
+53,Rio de Janeiro,(mil barris),LGN,2014,151770,FÃ³ssil
+54,Rio de Janeiro,(mil barris),Petroleo,2014,5632320,FÃ³ssil
+55,Rio de Janeiro,(mil m3),Etanol anidro e hidratado,2014,8849,RenovÃ¡vel
+56,Rio de Janeiro,(milhoes de m3),Gas Natural,2014,110974,FÃ³ssil
+57,Rondonia,(m3),Biodiesel,2014,109770,RenovÃ¡vel
+58,Rondonia,(mil m3),Etanol anidro e hidratado,2014,1277,RenovÃ¡vel
+59,Santa Catarina,(m3),Biodiesel,2014,684520,RenovÃ¡vel
+60,Sao Paulo,(m3),Biodiesel,2014,1703450,RenovÃ¡vel
+61,Sao Paulo,(m3),Biometano,2014,0,RenovÃ¡vel
+62,Sao Paulo,(mil barris),LGN,2014,15940,FÃ³ssil
+63,Sao Paulo,(mil barris),Petroleo,2014,592350,FÃ³ssil
+64,Sao Paulo,(mil m3),Etanol anidro e hidratado,2014,1387149,RenovÃ¡vel
+65,Sao Paulo,(milhoes de m3),Gas Natural,2014,41631,FÃ³ssil
+66,Sergipe,(mil barris),LGN,2014,10840,FÃ³ssil
+67,Sergipe,(mil barris),Petroleo,2014,149720,FÃ³ssil
+68,Sergipe,(mil m3),Etanol anidro e hidratado,2014,11154,RenovÃ¡vel
+69,Sergipe,(milhoes de m3),Gas Natural,2014,10580,FÃ³ssil
+70,Tocantins,(m3),Biodiesel,2014,736040,RenovÃ¡vel
+71,Tocantins,(mil m3),Etanol anidro e hidratado,2014,18072,RenovÃ¡vel
+72,Acre,(mil m3),Etanol anidro e hidratado,2015,451,RenovÃ¡vel
+73,Alagoas,(mil barris),LGN,2015,44800,FÃ³ssil
+74,Alagoas,(mil barris),Petroleo,2015,25260,FÃ³ssil
+75,Alagoas,(mil m3),Etanol anidro e hidratado,2015,55456,RenovÃ¡vel
+76,Alagoas,(milhoes de m3),Gas Natural,2015,4274,FÃ³ssil
+77,Amazonas,(mil barris),LGN,2015,63660,FÃ³ssil
+78,Amazonas,(mil barris),Petroleo,2015,96010,FÃ³ssil
+79,Amazonas,(mil m3),Etanol anidro e hidratado,2015,58,RenovÃ¡vel
+80,Amazonas,(milhoes de m3),Gas Natural,2015,50602,FÃ³ssil
+81,Bahia,(m3),Biodiesel,2015,2254840,RenovÃ¡vel
+82,Bahia,(mil barris),LGN,2015,14730,FÃ³ssil
+83,Bahia,(mil barris),Petroleo,2015,38190,FÃ³ssil
+84,Bahia,(mil m3),Etanol anidro e hidratado,2015,22226,RenovÃ¡vel
+85,Bahia,(milhoes de m3),Gas Natural,2015,30408,FÃ³ssil
+86,Ceara,(m3),Biodiesel,2015,874340,RenovÃ¡vel
+87,Ceara,(m3),Biometano,2015,0,RenovÃ¡vel
+88,Ceara,(mil barris),LGN,2015,2800,FÃ³ssil
+89,Ceara,(mil barris),Petroleo,2015,72310,FÃ³ssil
+90,Ceara,(mil m3),Etanol anidro e hidratado,2015,146,RenovÃ¡vel
+91,Ceara,(milhoes de m3),Gas Natural,2015,275,FÃ³ssil
+92,Espirito Santo,(mil barris),LGN,2015,53820,FÃ³ssil
+93,Espirito Santo,(mil barris),Petroleo,2015,1416470,FÃ³ssil
+94,Espirito Santo,(mil m3),Etanol anidro e hidratado,2015,17873,RenovÃ¡vel
+95,Espirito Santo,(milhoes de m3),Gas Natural,2015,41144,FÃ³ssil
+96,Goias,(m3),Biodiesel,2015,6952520,RenovÃ¡vel
+97,Goias,(mil m3),Etanol anidro e hidratado,2015,480935,RenovÃ¡vel
+98,Maranhao,(mil barris),Petroleo,2015,400,FÃ³ssil
+99,Maranhao,(mil m3),Etanol anidro e hidratado,2015,18698,RenovÃ¡vel
+100,Maranhao,(milhoes de m3),Gas Natural,2015,15653,FÃ³ssil
+101,Mato Grosso,(m3),Biodiesel,2015,8456710,RenovÃ¡vel
+102,Mato Grosso,(mil m3),Etanol anidro e hidratado,2015,131632,RenovÃ¡vel
+103,Mato Grosso do Sul,(m3),Biodiesel,2015,2074840,RenovÃ¡vel
+104,Mato Grosso do Sul,(mil m3),Etanol anidro e hidratado,2015,271233,RenovÃ¡vel
+105,Minas Gerais,(m3),Biodiesel,2015,922580,RenovÃ¡vel
+106,Minas Gerais,(mil m3),Etanol anidro e hidratado,2015,320292,RenovÃ¡vel
+107,Para,(m3),Biodiesel,2015,0,RenovÃ¡vel
+108,Para,(mil m3),Etanol anidro e hidratado,2015,4093,RenovÃ¡vel
+109,Paraiba,(mil m3),Etanol anidro e hidratado,2015,44706,RenovÃ¡vel
+110,Parana,(m3),Biodiesel,2015,3636890,RenovÃ¡vel
+111,Parana,(mil m3),Etanol anidro e hidratado,2015,146239,RenovÃ¡vel
+112,Parana,(milhoes de m3),Gas Natural,2015,0,FÃ³ssil
+113,Pernambuco,(mil m3),Etanol anidro e hidratado,2015,44294,RenovÃ¡vel
+114,Piaui,(m3),Biodiesel,2015,0,RenovÃ¡vel
+115,Piaui,(mil m3),Etanol anidro e hidratado,2015,3268,RenovÃ¡vel
+116,Rio Grande do Norte,(m3),Biodiesel,2015,17990,RenovÃ¡vel
+117,Rio Grande do Norte,(mil barris),LGN,2015,11440,FÃ³ssil
+118,Rio Grande do Norte,(mil barris),Petroleo,2015,208410,FÃ³ssil
+119,Rio Grande do Norte,(mil m3),Etanol anidro e hidratado,2015,9826,RenovÃ¡vel
+120,Rio Grande do Norte,(milhoes de m3),Gas Natural,2015,4267,FÃ³ssil
+121,Rio Grande do Sul,(m3),Biodiesel,2015,11143070,RenovÃ¡vel
+122,Rio Grande do Sul,(mil m3),Etanol anidro e hidratado,2015,379,RenovÃ¡vel
+123,Rio de Janeiro,(m3),Biodiesel,2015,187040,RenovÃ¡vel
+124,Rio de Janeiro,(m3),Biometano,2015,0,RenovÃ¡vel
+125,Rio de Janeiro,(mil barris),LGN,2015,143190,FÃ³ssil
+126,Rio de Janeiro,(mil barris),Petroleo,2015,5969240,FÃ³ssil
+127,Rio de Janeiro,(mil m3),Etanol anidro e hidratado,2015,576,RenovÃ¡vel
+128,Rio de Janeiro,(milhoes de m3),Gas Natural,2015,140620,FÃ³ssil
+129,Rondonia,(m3),Biodiesel,2015,41400,RenovÃ¡vel
+130,Rondonia,(mil m3),Etanol anidro e hidratado,2015,1299,RenovÃ¡vel
+131,Santa Catarina,(m3),Biodiesel,2015,344890,RenovÃ¡vel
+132,Sao Paulo,(m3),Biodiesel,2015,1844730,RenovÃ¡vel
+133,Sao Paulo,(m3),Biometano,2015,0,RenovÃ¡vel
+134,Sao Paulo,(mil barris),LGN,2015,26130,FÃ³ssil
+135,Sao Paulo,(mil barris),Petroleo,2015,899680,FÃ³ssil
+136,Sao Paulo,(mil m3),Etanol anidro e hidratado,2015,1383005,RenovÃ¡vel
+137,Sao Paulo,(milhoes de m3),Gas Natural,2015,55384,FÃ³ssil
+138,Sergipe,(mil barris),LGN,2015,89900,FÃ³ssil
+139,Sergipe,(mil barris),Petroleo,2015,121630,FÃ³ssil
+140,Sergipe,(mil m3),Etanol anidro e hidratado,2015,16989,RenovÃ¡vel
+141,Sergipe,(milhoes de m3),Gas Natural,2015,8638,FÃ³ssil
+142,Tocantins,(m3),Biodiesel,2015,620850,RenovÃ¡vel
+143,Tocantins,(mil m3),Etanol anidro e hidratado,2015,18981,RenovÃ¡vel
+144,Acre,(mil m3),Etanol anidro e hidratado,2016,367,RenovÃ¡vel
+145,Alagoas,(mil barris),LGN,2016,5980,FÃ³ssil
+146,Alagoas,(mil barris),Petroleo,2016,20490,FÃ³ssil
+147,Alagoas,(mil m3),Etanol anidro e hidratado,2016,36649,RenovÃ¡vel
+148,Alagoas,(milhoes de m3),Gas Natural,2016,4183,FÃ³ssil
+149,Amazonas,(mil barris),LGN,2016,57940,FÃ³ssil
+150,Amazonas,(mil barris),Petroleo,2016,85610,FÃ³ssil
+151,Amazonas,(mil m3),Etanol anidro e hidratado,2016,55,RenovÃ¡vel
+152,Amazonas,(milhoes de m3),Gas Natural,2016,51062,FÃ³ssil
+153,Bahia,(m3),Biodiesel,2016,2452150,RenovÃ¡vel
+154,Bahia,(mil barris),LGN,2016,13970,FÃ³ssil
+155,Bahia,(mil barris),Petroleo,2016,158040,FÃ³ssil
+156,Bahia,(mil m3),Etanol anidro e hidratado,2016,12607,RenovÃ¡vel
+157,Bahia,(milhoes de m3),Gas Natural,2016,27243,FÃ³ssil
+158,Ceara,(m3),Biodiesel,2016,593900,RenovÃ¡vel
+159,Ceara,(m3),Biometano,2016,0,RenovÃ¡vel
+160,Ceara,(mil barris),LGN,2016,0,FÃ³ssil
+161,Ceara,(mil barris),Petroleo,2016,75980,FÃ³ssil
+162,Ceara,(mil m3),Etanol anidro e hidratado,2016,524,RenovÃ¡vel
+163,Ceara,(milhoes de m3),Gas Natural,2016,374,FÃ³ssil
+164,Espirito Santo,(mil barris),LGN,2016,57890,FÃ³ssil
+165,Espirito Santo,(mil barris),Petroleo,2016,144180,FÃ³ssil
+166,Espirito Santo,(mil m3),Etanol anidro e hidratado,2016,7531,RenovÃ¡vel
+167,Espirito Santo,(milhoes de m3),Gas Natural,2016,38947,FÃ³ssil
+168,Goias,(m3),Biodiesel,2016,6499220,RenovÃ¡vel
+169,Goias,(mil m3),Etanol anidro e hidratado,2016,458421,RenovÃ¡vel
+170,Maranhao,(mil barris),Petroleo,2016,1400,FÃ³ssil
+171,Maranhao,(mil m3),Etanol anidro e hidratado,2016,1280,RenovÃ¡vel
+172,Maranhao,(milhoes de m3),Gas Natural,2016,19263,FÃ³ssil
+173,Mato Grosso,(m3),Biodiesel,2016,8186690,RenovÃ¡vel
+174,Mato Grosso,(mil m3),Etanol anidro e hidratado,2016,121165,RenovÃ¡vel
+175,Mato Grosso do Sul,(m3),Biodiesel,2016,1782370,RenovÃ¡vel
+176,Mato Grosso do Sul,(mil m3),Etanol anidro e hidratado,2016,259994,RenovÃ¡vel
+177,Minas Gerais,(m3),Biodiesel,2016,947980,RenovÃ¡vel
+178,Minas Gerais,(mil m3),Etanol anidro e hidratado,2016,269943,RenovÃ¡vel
+179,Para,(m3),Biodiesel,2016,0,RenovÃ¡vel
+180,Para,(mil m3),Etanol anidro e hidratado,2016,3315,RenovÃ¡vel
+181,Paraiba,(mil m3),Etanol anidro e hidratado,2016,36023,RenovÃ¡vel
+182,Parana,(m3),Biodiesel,2016,3926790,RenovÃ¡vel
+183,Parana,(mil m3),Etanol anidro e hidratado,2016,147369,RenovÃ¡vel
+184,Parana,(milhoes de m3),Gas Natural,2016,0,FÃ³ssil
+185,Pernambuco,(mil m3),Etanol anidro e hidratado,2016,34787,RenovÃ¡vel
+186,Piaui,(m3),Biodiesel,2016,0,RenovÃ¡vel
+187,Piaui,(mil m3),Etanol anidro e hidratado,2016,2161,RenovÃ¡vel
+188,Rio Grande do Norte,(m3),Biodiesel,2016,0,RenovÃ¡vel
+189,Rio Grande do Norte,(mil barris),LGN,2016,9830,FÃ³ssil
+190,Rio Grande do Norte,(mil barris),Petroleo,2016,204330,FÃ³ssil
+191,Rio Grande do Norte,(mil m3),Etanol anidro e hidratado,2016,7515,RenovÃ¡vel
+192,Rio Grande do Norte,(milhoes de m3),Gas Natural,2016,3888,FÃ³ssil
+193,Rio Grande do Sul,(m3),Biodiesel,2016,10747590,RenovÃ¡vel
+194,Rio Grande do Sul,(mil m3),Etanol anidro e hidratado,2016,291,RenovÃ¡vel
+195,Rio de Janeiro,(m3),Biodiesel,2016,216690,RenovÃ¡vel
+196,Rio de Janeiro,(m3),Biometano,2016,0,RenovÃ¡vel
+197,Rio de Janeiro,(mil barris),LGN,2016,100430,FÃ³ssil
+198,Rio de Janeiro,(mil barris),Petroleo,2016,6147130,FÃ³ssil
+199,Rio de Janeiro,(mil m3),Etanol anidro e hidratado,2016,9469,RenovÃ¡vel
+200,Rio de Janeiro,(milhoes de m3),Gas Natural,2016,166131,FÃ³ssil
+201,Rondonia,(m3),Biodiesel,2016,10350,RenovÃ¡vel
+202,Rondonia,(mil m3),Etanol anidro e hidratado,2016,906,RenovÃ¡vel
+203,Santa Catarina,(m3),Biodiesel,2016,892520,RenovÃ¡vel
+204,Sao Paulo,(m3),Biodiesel,2016,1377910,RenovÃ¡vel
+205,Sao Paulo,(m3),Biometano,2016,0,RenovÃ¡vel
+206,Sao Paulo,(mil barris),LGN,2016,101640,FÃ³ssil
+207,Sao Paulo,(mil barris),Petroleo,2016,1026050,FÃ³ssil
+208,Sao Paulo,(mil m3),Etanol anidro e hidratado,2016,1423241,RenovÃ¡vel
+209,Sao Paulo,(milhoes de m3),Gas Natural,2016,58322,FÃ³ssil
+210,Sergipe,(mil barris),LGN,2016,6390,FÃ³ssil
+211,Sergipe,(mil barris),Petroleo,2016,109020,FÃ³ssil
+212,Sergipe,(mil m3),Etanol anidro e hidratado,2016,7603,RenovÃ¡vel
+213,Sergipe,(milhoes de m3),Gas Natural,2016,9492,FÃ³ssil
+214,Tocantins,(m3),Biodiesel,2016,379230,RenovÃ¡vel
+215,Tocantins,(mil m3),Etanol anidro e hidratado,2016,16197,RenovÃ¡vel
+216,Acre,(mil m3),Etanol anidro e hidratado,2017,0,RenovÃ¡vel
+217,Alagoas,(mil barris),LGN,2017,5020,FÃ³ssil
+218,Alagoas,(mil barris),Petroleo,2017,16390,FÃ³ssil
+219,Alagoas,(mil m3),Etanol anidro e hidratado,2017,31188,RenovÃ¡vel
+220,Alagoas,(milhoes de m3),Gas Natural,2017,3917,FÃ³ssil
+221,Amazonas,(mil barris),LGN,2017,57230,FÃ³ssil
+222,Amazonas,(mil barris),Petroleo,2017,74820,FÃ³ssil
+223,Amazonas,(mil m3),Etanol anidro e hidratado,2017,485,RenovÃ¡vel
+224,Amazonas,(milhoes de m3),Gas Natural,2017,47564,FÃ³ssil
+225,Bahia,(m3),Biodiesel,2017,2909450,RenovÃ¡vel
+226,Bahia,(mil barris),LGN,2017,9600,FÃ³ssil
+227,Bahia,(mil barris),Petroleo,2017,136910,FÃ³ssil
+228,Bahia,(mil m3),Etanol anidro e hidratado,2017,18077,RenovÃ¡vel
+229,Bahia,(milhoes de m3),Gas Natural,2017,25873,FÃ³ssil
+230,Ceara,(m3),Biodiesel,2017,0,RenovÃ¡vel
+231,Ceara,(m3),Biometano,2017,0,RenovÃ¡vel
+232,Ceara,(mil barris),LGN,2017,0,FÃ³ssil
+233,Ceara,(mil barris),Petroleo,2017,60380,FÃ³ssil
+234,Ceara,(mil m3),Etanol anidro e hidratado,2017,0,RenovÃ¡vel
+235,Ceara,(milhoes de m3),Gas Natural,2017,305,FÃ³ssil
+236,Espirito Santo,(mil barris),LGN,2017,59690,FÃ³ssil
+237,Espirito Santo,(mil barris),Petroleo,2017,1377600,FÃ³ssil
+238,Espirito Santo,(mil m3),Etanol anidro e hidratado,2017,9065,RenovÃ¡vel
+239,Espirito Santo,(milhoes de m3),Gas Natural,2017,40216,FÃ³ssil
+240,Goias,(m3),Biodiesel,2017,7165700,RenovÃ¡vel
+241,Goias,(mil m3),Etanol anidro e hidratado,2017,487478,RenovÃ¡vel
+242,Maranhao,(mil barris),Petroleo,2017,1300,FÃ³ssil
+243,Maranhao,(mil m3),Etanol anidro e hidratado,2017,16256,RenovÃ¡vel
+244,Maranhao,(milhoes de m3),Gas Natural,2017,16172,FÃ³ssil
+245,Mato Grosso,(m3),Biodiesel,2017,9140020,RenovÃ¡vel
+246,Mato Grosso,(mil m3),Etanol anidro e hidratado,2017,141509,RenovÃ¡vel
+247,Mato Grosso do Sul,(m3),Biodiesel,2017,2657070,RenovÃ¡vel
+248,Mato Grosso do Sul,(mil m3),Etanol anidro e hidratado,2017,266806,RenovÃ¡vel
+249,Minas Gerais,(m3),Biodiesel,2017,1181360,RenovÃ¡vel
+250,Minas Gerais,(mil m3),Etanol anidro e hidratado,2017,27054,RenovÃ¡vel
+251,Para,(m3),Biodiesel,2017,0,RenovÃ¡vel
+252,Para,(mil m3),Etanol anidro e hidratado,2017,5162,RenovÃ¡vel
+253,Paraiba,(mil m3),Etanol anidro e hidratado,2017,32963,RenovÃ¡vel
+254,Parana,(m3),Biodiesel,2017,5042330,RenovÃ¡vel
+255,Parana,(mil m3),Etanol anidro e hidratado,2017,129137,RenovÃ¡vel
+256,Parana,(milhoes de m3),Gas Natural,2017,0,FÃ³ssil
+257,Pernambuco,(mil m3),Etanol anidro e hidratado,2017,27945,RenovÃ¡vel
+258,Piaui,(m3),Biodiesel,2017,0,RenovÃ¡vel
+259,Piaui,(mil m3),Etanol anidro e hidratado,2017,204,RenovÃ¡vel
+260,Rio Grande do Norte,(m3),Biodiesel,2017,0,RenovÃ¡vel
+261,Rio Grande do Norte,(mil barris),LGN,2017,9650,FÃ³ssil
+262,Rio Grande do Norte,(mil barris),Petroleo,2017,173010,FÃ³ssil
+263,Rio Grande do Norte,(mil m3),Etanol anidro e hidratado,2017,6635,RenovÃ¡vel
+264,Rio Grande do Norte,(milhoes de m3),Gas Natural,2017,3994,FÃ³ssil
+265,Rio Grande do Sul,(m3),Biodiesel,2017,11359760,RenovÃ¡vel
+266,Rio Grande do Sul,(mil m3),Etanol anidro e hidratado,2017,249,RenovÃ¡vel
+267,Rio de Janeiro,(m3),Biodiesel,2017,582370,RenovÃ¡vel
+268,Rio de Janeiro,(m3),Biometano,2017,0,RenovÃ¡vel
+269,Rio de Janeiro,(mil barris),LGN,2017,75090,FÃ³ssil
+270,Rio de Janeiro,(mil barris),Petroleo,2017,6508540,FÃ³ssil
+271,Rio de Janeiro,(mil m3),Etanol anidro e hidratado,2017,5389,RenovÃ¡vel
+272,Rio de Janeiro,(milhoes de m3),Gas Natural,2017,186151,FÃ³ssil
+273,Rondonia,(m3),Biodiesel,2017,72600,RenovÃ¡vel
+274,Rondonia,(mil m3),Etanol anidro e hidratado,2017,49,RenovÃ¡vel
+275,Santa Catarina,(m3),Biodiesel,2017,1219650,RenovÃ¡vel
+276,Sao Paulo,(m3),Biodiesel,2017,1562460,RenovÃ¡vel
+277,Sao Paulo,(m3),Biometano,2017,0,RenovÃ¡vel
+278,Sao Paulo,(mil barris),LGN,2017,183450,FÃ³ssil
+279,Sao Paulo,(mil barris),Petroleo,2017,1200140,FÃ³ssil
+280,Sao Paulo,(mil m3),Etanol anidro e hidratado,2017,1383859,RenovÃ¡vel
+281,Sao Paulo,(milhoes de m3),Gas Natural,2017,68863,FÃ³ssil
+282,Sergipe,(mil barris),LGN,2017,5520,FÃ³ssil
+283,Sergipe,(mil barris),Petroleo,2017,84710,FÃ³ssil
+284,Sergipe,(mil m3),Etanol anidro e hidratado,2017,6374,RenovÃ¡vel
+285,Sergipe,(milhoes de m3),Gas Natural,2017,8118,FÃ³ssil
+286,Tocantins,(m3),Biodiesel,2017,5610,RenovÃ¡vel
+287,Tocantins,(mil m3),Etanol anidro e hidratado,2017,17627,RenovÃ¡vel
+288,Acre,(mil m3),Etanol anidro e hidratado,2018,0,RenovÃ¡vel
+289,Alagoas,(mil barris),LGN,2018,5140,FÃ³ssil
+290,Alagoas,(mil barris),Petroleo,2018,97200,FÃ³ssil
+291,Alagoas,(mil m3),Etanol anidro e hidratado,2018,4641,RenovÃ¡vel
+292,Alagoas,(milhoes de m3),Gas Natural,2018,4075,FÃ³ssil
+293,Amazonas,(mil barris),LGN,2018,62250,FÃ³ssil
+294,Amazonas,(mil barris),Petroleo,2018,74620,FÃ³ssil
+295,Amazonas,(mil m3),Etanol anidro e hidratado,2018,547,RenovÃ¡vel
+296,Amazonas,(milhoes de m3),Gas Natural,2018,52160,FÃ³ssil
+297,Bahia,(m3),Biodiesel,2018,3763380,RenovÃ¡vel
+298,Bahia,(mil barris),LGN,2018,9360,FÃ³ssil
+299,Bahia,(mil barris),Petroleo,2018,125160,FÃ³ssil
+300,Bahia,(mil m3),Etanol anidro e hidratado,2018,2457,RenovÃ¡vel
+301,Bahia,(milhoes de m3),Gas Natural,2018,25530,FÃ³ssil
+302,Ceara,(m3),Biodiesel,2018,0,RenovÃ¡vel
+303,Ceara,(m3),Biometano,2018,0,RenovÃ¡vel
+304,Ceara,(mil barris),LGN,2018,0,FÃ³ssil
+305,Ceara,(mil barris),Petroleo,2018,54240,FÃ³ssil
+306,Ceara,(mil m3),Etanol anidro e hidratado,2018,0,RenovÃ¡vel
+307,Ceara,(milhoes de m3),Gas Natural,2018,357,FÃ³ssil
+308,Espirito Santo,(mil barris),LGN,2018,54760,FÃ³ssil
+309,Espirito Santo,(mil barris),Petroleo,2018,1223090,FÃ³ssil
+310,Espirito Santo,(mil m3),Etanol anidro e hidratado,2018,12757,RenovÃ¡vel
+311,Espirito Santo,(milhoes de m3),Gas Natural,2018,34629,FÃ³ssil
+312,Goias,(m3),Biodiesel,2018,7581960,RenovÃ¡vel
+313,Goias,(mil m3),Etanol anidro e hidratado,2018,449143,RenovÃ¡vel
+314,Maranhao,(mil barris),Petroleo,2018,1500,FÃ³ssil
+315,Maranhao,(mil m3),Etanol anidro e hidratado,2018,14762,RenovÃ¡vel
+316,Maranhao,(milhoes de m3),Gas Natural,2018,14109,FÃ³ssil
+317,Mato Grosso,(m3),Biodiesel,2018,11195520,RenovÃ¡vel
+318,Mato Grosso,(mil m3),Etanol anidro e hidratado,2018,175728,RenovÃ¡vel
+319,Mato Grosso do Sul,(m3),Biodiesel,2018,3244830,RenovÃ¡vel
+320,Mato Grosso do Sul,(mil m3),Etanol anidro e hidratado,2018,326448,RenovÃ¡vel
+321,Minas Gerais,(m3),Biodiesel,2018,1279460,RenovÃ¡vel
+322,Minas Gerais,(mil m3),Etanol anidro e hidratado,2018,32576,RenovÃ¡vel
+323,Para,(m3),Biodiesel,2018,0,RenovÃ¡vel
+324,Para,(mil m3),Etanol anidro e hidratado,2018,4346,RenovÃ¡vel
+325,Paraiba,(mil m3),Etanol anidro e hidratado,2018,43104,RenovÃ¡vel
+326,Parana,(m3),Biodiesel,2018,6018210,RenovÃ¡vel
+327,Parana,(mil m3),Etanol anidro e hidratado,2018,162401,RenovÃ¡vel
+328,Parana,(milhoes de m3),Gas Natural,2018,0,FÃ³ssil
+329,Pernambuco,(mil m3),Etanol anidro e hidratado,2018,46551,RenovÃ¡vel
+330,Piaui,(m3),Biodiesel,2018,0,RenovÃ¡vel
+331,Piaui,(mil m3),Etanol anidro e hidratado,2018,3748,RenovÃ¡vel
+332,Rio Grande do Norte,(m3),Biodiesel,2018,0,RenovÃ¡vel
+333,Rio Grande do Norte,(mil barris),LGN,2018,8490,FÃ³ssil
+334,Rio Grande do Norte,(mil barris),Petroleo,2018,14700,FÃ³ssil
+335,Rio Grande do Norte,(mil m3),Etanol anidro e hidratado,2018,1149,RenovÃ¡vel
+336,Rio Grande do Norte,(milhoes de m3),Gas Natural,2018,3514,FÃ³ssil
+337,Rio Grande do Sul,(m3),Biodiesel,2018,14750800,RenovÃ¡vel
+338,Rio Grande do Sul,(mil m3),Etanol anidro e hidratado,2018,219,RenovÃ¡vel
+339,Rio de Janeiro,(m3),Biodiesel,2018,961030,RenovÃ¡vel
+340,Rio de Janeiro,(m3),Biometano,2018,0,RenovÃ¡vel
+341,Rio de Janeiro,(mil barris),LGN,2018,56810,FÃ³ssil
+342,Rio de Janeiro,(mil barris),Petroleo,2018,6628180,FÃ³ssil
+343,Rio de Janeiro,(mil m3),Etanol anidro e hidratado,2018,9726,RenovÃ¡vel
+344,Rio de Janeiro,(milhoes de m3),Gas Natural,2018,201976,FÃ³ssil
+345,Rondonia,(m3),Biodiesel,2018,162320,RenovÃ¡vel
+346,Rondonia,(mil m3),Etanol anidro e hidratado,2018,139,RenovÃ¡vel
+347,Santa Catarina,(m3),Biodiesel,2018,1221310,RenovÃ¡vel
+348,Sao Paulo,(m3),Biodiesel,2018,2336530,RenovÃ¡vel
+349,Sao Paulo,(m3),Biometano,2018,0,RenovÃ¡vel
+350,Sao Paulo,(mil barris),LGN,2018,190480,FÃ³ssil
+351,Sao Paulo,(mil barris),Petroleo,2018,1164640,FÃ³ssil
+352,Sao Paulo,(mil m3),Etanol anidro e hidratado,2018,162034,RenovÃ¡vel
+353,Sao Paulo,(milhoes de m3),Gas Natural,2018,64310,FÃ³ssil
+354,Sergipe,(mil barris),LGN,2018,4540,FÃ³ssil
+355,Sergipe,(mil barris),Petroleo,2018,66290,FÃ³ssil
+356,Sergipe,(mil m3),Etanol anidro e hidratado,2018,1042,RenovÃ¡vel
+357,Sergipe,(milhoes de m3),Gas Natural,2018,7913,FÃ³ssil
+358,Tocantins,(m3),Biodiesel,2018,851010,RenovÃ¡vel
+359,Tocantins,(mil m3),Etanol anidro e hidratado,2018,15522,RenovÃ¡vel
+360,Acre,(mil m3),Etanol anidro e hidratado,2019,0,RenovÃ¡vel
+361,Alagoas,(mil barris),LGN,2019,3690,FÃ³ssil
+362,Alagoas,(mil barris),Petroleo,2019,97531,FÃ³ssil
+363,Alagoas,(mil m3),Etanol anidro e hidratado,2019,50316,RenovÃ¡vel
+364,Alagoas,(milhoes de m3),Gas Natural,2019,3145,FÃ³ssil
+365,Amazonas,(mil barris),LGN,2019,59950,FÃ³ssil
+366,Amazonas,(mil barris),Petroleo,2019,68140,FÃ³ssil
+367,Amazonas,(mil m3),Etanol anidro e hidratado,2019,882,RenovÃ¡vel
+368,Amazonas,(milhoes de m3),Gas Natural,2019,55711,FÃ³ssil
+369,Bahia,(m3),Biodiesel,2019,4543260,RenovÃ¡vel
+370,Bahia,(mil barris),LGN,2019,8800,FÃ³ssil
+371,Bahia,(mil barris),Petroleo,2019,102630,FÃ³ssil
+372,Bahia,(mil m3),Etanol anidro e hidratado,2019,2491,RenovÃ¡vel
+373,Bahia,(milhoes de m3),Gas Natural,2019,20827,FÃ³ssil
+374,Ceara,(m3),Biodiesel,2019,0,RenovÃ¡vel
+375,Ceara,(m3),Biometano,2019,0,RenovÃ¡vel
+376,Ceara,(mil barris),LGN,2019,0,FÃ³ssil
+377,Ceara,(mil barris),Petroleo,2019,18550,FÃ³ssil
+378,Ceara,(mil m3),Etanol anidro e hidratado,2019,0,RenovÃ¡vel
+379,Ceara,(milhoes de m3),Gas Natural,2019,284,FÃ³ssil
+380,Espirito Santo,(mil barris),LGN,2019,56490,FÃ³ssil
+381,Espirito Santo,(mil barris),Petroleo,2019,1049890,FÃ³ssil
+382,Espirito Santo,(mil m3),Etanol anidro e hidratado,2019,12097,RenovÃ¡vel
+383,Espirito Santo,(milhoes de m3),Gas Natural,2019,26717,FÃ³ssil
+384,Goias,(m3),Biodiesel,2019,8650510,RenovÃ¡vel
+385,Goias,(mil m3),Etanol anidro e hidratado,2019,547074,RenovÃ¡vel
+386,Maranhao,(mil barris),Petroleo,2019,200,FÃ³ssil
+387,Maranhao,(mil m3),Etanol anidro e hidratado,2019,16774,RenovÃ¡vel
+388,Maranhao,(milhoes de m3),Gas Natural,2019,13951,FÃ³ssil
+389,Mato Grosso,(m3),Biodiesel,2019,12349720,RenovÃ¡vel
+390,Mato Grosso,(mil m3),Etanol anidro e hidratado,2019,225438,RenovÃ¡vel
+391,Mato Grosso do Sul,(m3),Biodiesel,2019,3434570,RenovÃ¡vel
+392,Mato Grosso do Sul,(mil m3),Etanol anidro e hidratado,2019,33072,RenovÃ¡vel
+393,Minas Gerais,(m3),Biodiesel,2019,1311120,RenovÃ¡vel
+394,Minas Gerais,(mil m3),Etanol anidro e hidratado,2019,357921,RenovÃ¡vel
+395,Para,(m3),Biodiesel,2019,0,RenovÃ¡vel
+396,Para,(mil m3),Etanol anidro e hidratado,2019,6123,RenovÃ¡vel
+397,Paraiba,(mil m3),Etanol anidro e hidratado,2019,35903,RenovÃ¡vel
+398,Parana,(m3),Biodiesel,2019,6299470,RenovÃ¡vel
+399,Parana,(mil m3),Etanol anidro e hidratado,2019,166463,RenovÃ¡vel
+400,Parana,(milhoes de m3),Gas Natural,2019,0,FÃ³ssil
+401,Pernambuco,(mil m3),Etanol anidro e hidratado,2019,36796,RenovÃ¡vel
+402,Piaui,(m3),Biodiesel,2019,0,RenovÃ¡vel
+403,Piaui,(mil m3),Etanol anidro e hidratado,2019,4646,RenovÃ¡vel
+404,Rio Grande do Norte,(m3),Biodiesel,2019,0,RenovÃ¡vel
+405,Rio Grande do Norte,(mil barris),LGN,2019,8190,FÃ³ssil
+406,Rio Grande do Norte,(mil barris),Petroleo,2019,139100,FÃ³ssil
+407,Rio Grande do Norte,(mil m3),Etanol anidro e hidratado,2019,10964,RenovÃ¡vel
+408,Rio Grande do Norte,(milhoes de m3),Gas Natural,2019,3348,FÃ³ssil
+409,Rio Grande do Sul,(m3),Biodiesel,2019,16363360,RenovÃ¡vel
+410,Rio Grande do Sul,(mil m3),Etanol anidro e hidratado,2019,164,RenovÃ¡vel
+411,Rio de Janeiro,(m3),Biodiesel,2019,1376730,RenovÃ¡vel
+412,Rio de Janeiro,(m3),Biometano,2019,0,RenovÃ¡vel
+413,Rio de Janeiro,(mil barris),LGN,2019,43300,FÃ³ssil
+414,Rio de Janeiro,(mil barris),Petroleo,2019,7658690,FÃ³ssil
+415,Rio de Janeiro,(mil m3),Etanol anidro e hidratado,2019,9162,RenovÃ¡vel
+416,Rio de Janeiro,(milhoes de m3),Gas Natural,2019,249862,FÃ³ssil
+417,Rondonia,(m3),Biodiesel,2019,158620,RenovÃ¡vel
+418,Rondonia,(mil m3),Etanol anidro e hidratado,2019,485,RenovÃ¡vel
+419,Santa Catarina,(m3),Biodiesel,2019,1304730,RenovÃ¡vel
+420,Sao Paulo,(m3),Biodiesel,2019,2310900,RenovÃ¡vel
+421,Sao Paulo,(m3),Biometano,2019,0,RenovÃ¡vel
+422,Sao Paulo,(mil barris),LGN,2019,193090,FÃ³ssil
+423,Sao Paulo,(mil barris),Petroleo,2019,1074600,FÃ³ssil
+424,Sao Paulo,(mil m3),Etanol anidro e hidratado,2019,1666825,RenovÃ¡vel
+425,Sao Paulo,(milhoes de m3),Gas Natural,2019,66942,FÃ³ssil
+426,Sergipe,(mil barris),LGN,2019,3480,FÃ³ssil
+427,Sergipe,(mil barris),Petroleo,2019,53750,FÃ³ssil
+428,Sergipe,(mil m3),Etanol anidro e hidratado,2019,10183,RenovÃ¡vel
+429,Sergipe,(milhoes de m3),Gas Natural,2019,6454,FÃ³ssil
+430,Tocantins,(m3),Biodiesel,2019,924890,RenovÃ¡vel
+431,Tocantins,(mil m3),Etanol anidro e hidratado,2019,16637,RenovÃ¡vel
+432,Acre,(mil m3),Etanol anidro e hidratado,2020,0,RenovÃ¡vel
+433,Alagoas,(mil barris),LGN,2020,3890,FÃ³ssil
+434,Alagoas,(mil barris),Petroleo,2020,93000,FÃ³ssil
+435,Alagoas,(mil m3),Etanol anidro e hidratado,2020,42589,RenovÃ¡vel
+436,Alagoas,(milhoes de m3),Gas Natural,2020,3095,FÃ³ssil
+437,Amazonas,(mil barris),LGN,2020,57480,FÃ³ssil
+438,Amazonas,(mil barris),Petroleo,2020,57770,FÃ³ssil
+439,Amazonas,(mil m3),Etanol anidro e hidratado,2020,901,RenovÃ¡vel
+440,Amazonas,(milhoes de m3),Gas Natural,2020,49572,FÃ³ssil
+441,Bahia,(m3),Biodiesel,2020,4385810,RenovÃ¡vel
+442,Bahia,(mil barris),LGN,2020,6740,FÃ³ssil
+443,Bahia,(mil barris),Petroleo,2020,100620,FÃ³ssil
+444,Bahia,(mil m3),Etanol anidro e hidratado,2020,27355,RenovÃ¡vel
+445,Bahia,(milhoes de m3),Gas Natural,2020,15631,FÃ³ssil
+446,Ceara,(m3),Biodiesel,2020,0,RenovÃ¡vel
+447,Ceara,(m3),Biometano,2020,247921090,RenovÃ¡vel
+448,Ceara,(mil barris),LGN,2020,0,FÃ³ssil
+449,Ceara,(mil barris),Petroleo,2020,58800,FÃ³ssil
+450,Ceara,(mil m3),Etanol anidro e hidratado,2020,0,RenovÃ¡vel
+451,Ceara,(milhoes de m3),Gas Natural,2020,62,FÃ³ssil
+452,Espirito Santo,(mil barris),LGN,2020,57520,FÃ³ssil
+453,Espirito Santo,(mil barris),Petroleo,2020,904000,FÃ³ssil
+454,Espirito Santo,(mil m3),Etanol anidro e hidratado,2020,8969,RenovÃ¡vel
+455,Espirito Santo,(milhoes de m3),Gas Natural,2020,23038,FÃ³ssil
+456,Goias,(m3),Biodiesel,2020,8784980,RenovÃ¡vel
+457,Goias,(mil m3),Etanol anidro e hidratado,2020,531805,RenovÃ¡vel
+458,Maranhao,(mil barris),Petroleo,2020,2400,FÃ³ssil
+459,Maranhao,(mil m3),Etanol anidro e hidratado,2020,17455,RenovÃ¡vel
+460,Maranhao,(milhoes de m3),Gas Natural,2020,13504,FÃ³ssil
+461,Mato Grosso,(m3),Biodiesel,2020,13833840,RenovÃ¡vel
+462,Mato Grosso,(mil m3),Etanol anidro e hidratado,2020,312387,RenovÃ¡vel
+463,Mato Grosso do Sul,(m3),Biodiesel,2020,3088900,RenovÃ¡vel
+464,Mato Grosso do Sul,(mil m3),Etanol anidro e hidratado,2020,287725,RenovÃ¡vel
+465,Minas Gerais,(m3),Biodiesel,2020,1318880,RenovÃ¡vel
+466,Minas Gerais,(mil m3),Etanol anidro e hidratado,2020,307821,RenovÃ¡vel
+467,Para,(m3),Biodiesel,2020,0,RenovÃ¡vel
+468,Para,(mil m3),Etanol anidro e hidratado,2020,5034,RenovÃ¡vel
+469,Paraiba,(mil m3),Etanol anidro e hidratado,2020,39553,RenovÃ¡vel
+470,Parana,(m3),Biodiesel,2020,7682400,RenovÃ¡vel
+471,Parana,(mil m3),Etanol anidro e hidratado,2020,126387,RenovÃ¡vel
+472,Parana,(milhoes de m3),Gas Natural,2020,0,FÃ³ssil
+473,Pernambuco,(mil m3),Etanol anidro e hidratado,2020,39502,RenovÃ¡vel
+474,Piaui,(m3),Biodiesel,2020,396430,RenovÃ¡vel
+475,Piaui,(mil m3),Etanol anidro e hidratado,2020,3861,RenovÃ¡vel
+476,Rio Grande do Norte,(m3),Biodiesel,2020,0,RenovÃ¡vel
+477,Rio Grande do Norte,(mil barris),LGN,2020,5410,FÃ³ssil
+478,Rio Grande do Norte,(mil barris),Petroleo,2020,214230,FÃ³ssil
+479,Rio Grande do Norte,(mil m3),Etanol anidro e hidratado,2020,1183,RenovÃ¡vel
+480,Rio Grande do Norte,(milhoes de m3),Gas Natural,2020,2449,FÃ³ssil
+481,Rio Grande do Sul,(m3),Biodiesel,2020,18332670,RenovÃ¡vel
+482,Rio Grande do Sul,(mil m3),Etanol anidro e hidratado,2020,9,RenovÃ¡vel
+483,Rio de Janeiro,(m3),Biodiesel,2020,1412990,RenovÃ¡vel
+484,Rio de Janeiro,(m3),Biometano,2020,113513270,RenovÃ¡vel
+485,Rio de Janeiro,(mil barris),LGN,2020,32200,FÃ³ssil
+486,Rio de Janeiro,(mil barris),Petroleo,2020,8538030,FÃ³ssil
+487,Rio de Janeiro,(mil m3),Etanol anidro e hidratado,2020,13739,RenovÃ¡vel
+488,Rio de Janeiro,(milhoes de m3),Gas Natural,2020,295666,FÃ³ssil
+489,Rondonia,(m3),Biodiesel,2020,68540,RenovÃ¡vel
+490,Rondonia,(mil m3),Etanol anidro e hidratado,2020,7,RenovÃ¡vel
+491,Santa Catarina,(m3),Biodiesel,2020,1399450,RenovÃ¡vel
+492,Sao Paulo,(m3),Biodiesel,2020,2329330,RenovÃ¡vel
+493,Sao Paulo,(m3),Biometano,2020,0,RenovÃ¡vel
+494,Sao Paulo,(mil barris),LGN,2020,201540,FÃ³ssil
+495,Sao Paulo,(mil barris),Petroleo,2020,982260,FÃ³ssil
+496,Sao Paulo,(mil m3),Etanol anidro e hidratado,2020,1448127,RenovÃ¡vel
+497,Sao Paulo,(milhoes de m3),Gas Natural,2020,61560,FÃ³ssil
+498,Sergipe,(mil barris),LGN,2020,1060,FÃ³ssil
+499,Sergipe,(mil barris),Petroleo,2020,109160,FÃ³ssil
+500,Sergipe,(mil m3),Etanol anidro e hidratado,2020,9716,RenovÃ¡vel
+501,Sergipe,(milhoes de m3),Gas Natural,2020,1734,FÃ³ssil
+502,Tocantins,(m3),Biodiesel,2020,1417570,RenovÃ¡vel
+503,Tocantins,(mil m3),Etanol anidro e hidratado,2020,1745,RenovÃ¡vel
+504,Acre,(mil m3),Etanol anidro e hidratado,2021,0,RenovÃ¡vel
+505,Alagoas,(mil barris),LGN,2021,2960,FÃ³ssil
+506,Alagoas,(mil barris),Petroleo,2021,6740,FÃ³ssil
+507,Alagoas,(mil m3),Etanol anidro e hidratado,2021,42361,RenovÃ¡vel
+508,Alagoas,(milhoes de m3),Gas Natural,2021,2018,FÃ³ssil
+509,Amazonas,(mil barris),LGN,2021,54060,FÃ³ssil
+510,Amazonas,(mil barris),Petroleo,2021,53280,FÃ³ssil
+511,Amazonas,(mil m3),Etanol anidro e hidratado,2021,639,RenovÃ¡vel
+512,Amazonas,(milhoes de m3),Gas Natural,2021,49571,FÃ³ssil
+513,Bahia,(m3),Biodiesel,2021,4104300,RenovÃ¡vel
+514,Bahia,(mil barris),LGN,2021,6470,FÃ³ssil
+515,Bahia,(mil barris),Petroleo,2021,81910,FÃ³ssil
+516,Bahia,(mil m3),Etanol anidro e hidratado,2021,31154,RenovÃ¡vel
+517,Bahia,(milhoes de m3),Gas Natural,2021,19829,FÃ³ssil
+518,Ceara,(m3),Biodiesel,2021,0,RenovÃ¡vel
+519,Ceara,(m3),Biometano,2021,245916970,RenovÃ¡vel
+520,Ceara,(mil barris),LGN,2021,0,FÃ³ssil
+521,Ceara,(mil barris),Petroleo,2021,2470,FÃ³ssil
+522,Ceara,(mil m3),Etanol anidro e hidratado,2021,0,RenovÃ¡vel
+523,Ceara,(milhoes de m3),Gas Natural,2021,3,FÃ³ssil
+524,Espirito Santo,(mil barris),LGN,2021,50970,FÃ³ssil
+525,Espirito Santo,(mil barris),Petroleo,2021,768800,FÃ³ssil
+526,Espirito Santo,(mil m3),Etanol anidro e hidratado,2021,9302,RenovÃ¡vel
+527,Espirito Santo,(milhoes de m3),Gas Natural,2021,19973,FÃ³ssil
+528,Goias,(m3),Biodiesel,2021,9646410,RenovÃ¡vel
+529,Goias,(mil m3),Etanol anidro e hidratado,2021,497971,RenovÃ¡vel
+530,Maranhao,(mil barris),Petroleo,2021,300,FÃ³ssil
+531,Maranhao,(mil m3),Etanol anidro e hidratado,2021,16433,RenovÃ¡vel
+532,Maranhao,(milhoes de m3),Gas Natural,2021,21411,FÃ³ssil
+533,Mato Grosso,(m3),Biodiesel,2021,13215940,RenovÃ¡vel
+534,Mato Grosso,(mil m3),Etanol anidro e hidratado,2021,393536,RenovÃ¡vel
+535,Mato Grosso do Sul,(m3),Biodiesel,2021,2797690,RenovÃ¡vel
+536,Mato Grosso do Sul,(mil m3),Etanol anidro e hidratado,2021,26367,RenovÃ¡vel
+537,Minas Gerais,(m3),Biodiesel,2021,1122010,RenovÃ¡vel
+538,Minas Gerais,(mil m3),Etanol anidro e hidratado,2021,283928,RenovÃ¡vel
+539,Para,(m3),Biodiesel,2021,0,RenovÃ¡vel
+540,Para,(mil m3),Etanol anidro e hidratado,2021,5498,RenovÃ¡vel
+541,Paraiba,(mil m3),Etanol anidro e hidratado,2021,36288,RenovÃ¡vel
+542,Parana,(m3),Biodiesel,2021,12160480,RenovÃ¡vel
+543,Parana,(mil m3),Etanol anidro e hidratado,2021,119362,RenovÃ¡vel
+544,Parana,(milhoes de m3),Gas Natural,2021,0,FÃ³ssil
+545,Pernambuco,(mil m3),Etanol anidro e hidratado,2021,32088,RenovÃ¡vel
+546,Piaui,(m3),Biodiesel,2021,423920,RenovÃ¡vel
+547,Piaui,(mil m3),Etanol anidro e hidratado,2021,4414,RenovÃ¡vel
+548,Rio Grande do Norte,(m3),Biodiesel,2021,0,RenovÃ¡vel
+549,Rio Grande do Norte,(mil barris),LGN,2021,5270,FÃ³ssil
+550,Rio Grande do Norte,(mil barris),Petroleo,2021,122270,FÃ³ssil
+551,Rio Grande do Norte,(mil m3),Etanol anidro e hidratado,2021,10178,RenovÃ¡vel
+552,Rio Grande do Norte,(milhoes de m3),Gas Natural,2021,2449,FÃ³ssil
+553,Rio Grande do Sul,(m3),Biodiesel,2021,18642910,RenovÃ¡vel
+554,Rio Grande do Sul,(mil m3),Etanol anidro e hidratado,2021,0,RenovÃ¡vel
+555,Rio de Janeiro,(m3),Biodiesel,2021,1378780,RenovÃ¡vel
+556,Rio de Janeiro,(m3),Biometano,2021,284517240,RenovÃ¡vel
+557,Rio de Janeiro,(mil barris),LGN,2021,31150,FÃ³ssil
+558,Rio de Janeiro,(mil barris),Petroleo,2021,8546620,FÃ³ssil
+559,Rio de Janeiro,(mil m3),Etanol anidro e hidratado,2021,12634,RenovÃ¡vel
+560,Rio de Janeiro,(milhoes de m3),Gas Natural,2021,312233,FÃ³ssil
+561,Rondonia,(m3),Biodiesel,2021,37240,RenovÃ¡vel
+562,Rondonia,(mil m3),Etanol anidro e hidratado,2021,0,RenovÃ¡vel
+563,Santa Catarina,(m3),Biodiesel,2021,1017980,RenovÃ¡vel
+564,Sao Paulo,(m3),Biodiesel,2021,1751980,RenovÃ¡vel
+565,Sao Paulo,(m3),Biometano,2021,0,RenovÃ¡vel
+566,Sao Paulo,(mil barris),LGN,2021,180530,FÃ³ssil
+567,Sao Paulo,(mil barris),Petroleo,2021,992260,FÃ³ssil
+568,Sao Paulo,(mil m3),Etanol anidro e hidratado,2021,121255,RenovÃ¡vel
+569,Sao Paulo,(milhoes de m3),Gas Natural,2021,60572,FÃ³ssil
+570,Sergipe,(mil barris),LGN,2021,0,FÃ³ssil
+571,Sergipe,(mil barris),Petroleo,2021,29030,FÃ³ssil
+572,Sergipe,(mil m3),Etanol anidro e hidratado,2021,1130,RenovÃ¡vel
+573,Sergipe,(milhoes de m3),Gas Natural,2021,182,FÃ³ssil
+574,Tocantins,(m3),Biodiesel,2021,1406980,RenovÃ¡vel
+575,Tocantins,(mil m3),Etanol anidro e hidratado,2021,19501,RenovÃ¡vel
+576,Acre,(mil m3),Etanol anidro e hidratado,2022,0,RenovÃ¡vel
+577,Alagoas,(mil barris),LGN,2022,280,FÃ³ssil
+578,Alagoas,(mil barris),Petroleo,2022,8820,FÃ³ssil
+579,Alagoas,(mil m3),Etanol anidro e hidratado,2022,38491,RenovÃ¡vel
+580,Alagoas,(milhoes de m3),Gas Natural,2022,2740,FÃ³ssil
+581,Amazonas,(mil barris),LGN,2022,50990,FÃ³ssil
+582,Amazonas,(mil barris),Petroleo,2022,49000,FÃ³ssil
+583,Amazonas,(mil m3),Etanol anidro e hidratado,2022,59,RenovÃ¡vel
+584,Amazonas,(milhoes de m3),Gas Natural,2022,50676,FÃ³ssil
+585,Bahia,(m3),Biodiesel,2022,5773000,RenovÃ¡vel
+586,Bahia,(mil barris),LGN,2022,7660,FÃ³ssil
+587,Bahia,(mil barris),Petroleo,2022,72240,FÃ³ssil
+588,Bahia,(mil m3),Etanol anidro e hidratado,2022,33491,RenovÃ¡vel
+589,Bahia,(milhoes de m3),Gas Natural,2022,17889,FÃ³ssil
+590,Ceara,(m3),Biodiesel,2022,0,RenovÃ¡vel
+591,Ceara,(m3),Biometano,2022,286624650,RenovÃ¡vel
+592,Ceara,(mil barris),LGN,2022,0,FÃ³ssil
+593,Ceara,(mil barris),Petroleo,2022,2230,FÃ³ssil
+594,Ceara,(mil m3),Etanol anidro e hidratado,2022,0,RenovÃ¡vel
+595,Ceara,(milhoes de m3),Gas Natural,2022,3,FÃ³ssil
+596,Espirito Santo,(mil barris),LGN,2022,34060,FÃ³ssil
+597,Espirito Santo,(mil barris),Petroleo,2022,502820,FÃ³ssil
+598,Espirito Santo,(mil m3),Etanol anidro e hidratado,2022,1039,RenovÃ¡vel
+599,Espirito Santo,(milhoes de m3),Gas Natural,2022,12439,FÃ³ssil
+600,Goias,(m3),Biodiesel,2022,11038620,RenovÃ¡vel
+601,Goias,(mil m3),Etanol anidro e hidratado,2022,512452,RenovÃ¡vel
+602,Maranhao,(mil barris),Petroleo,2022,140,FÃ³ssil
+603,Maranhao,(mil m3),Etanol anidro e hidratado,2022,14311,RenovÃ¡vel
+604,Maranhao,(milhoes de m3),Gas Natural,2022,9278,FÃ³ssil
+605,Mato Grosso,(m3),Biodiesel,2022,10653660,RenovÃ¡vel
+606,Mato Grosso,(mil m3),Etanol anidro e hidratado,2022,430952,RenovÃ¡vel
+607,Mato Grosso do Sul,(m3),Biodiesel,2022,1895980,RenovÃ¡vel
+608,Mato Grosso do Sul,(mil m3),Etanol anidro e hidratado,2022,307747,RenovÃ¡vel
+609,Minas Gerais,(m3),Biodiesel,2022,1280930,RenovÃ¡vel
+610,Minas Gerais,(mil m3),Etanol anidro e hidratado,2022,289495,RenovÃ¡vel
+611,Para,(m3),Biodiesel,2022,495770,RenovÃ¡vel
+612,Para,(mil m3),Etanol anidro e hidratado,2022,5277,RenovÃ¡vel
+613,Paraiba,(mil m3),Etanol anidro e hidratado,2022,36186,RenovÃ¡vel
+614,Parana,(m3),Biodiesel,2022,8440460,RenovÃ¡vel
+615,Parana,(mil m3),Etanol anidro e hidratado,2022,108755,RenovÃ¡vel
+616,Parana,(milhoes de m3),Gas Natural,2022,41,FÃ³ssil
+617,Pernambuco,(mil m3),Etanol anidro e hidratado,2022,30874,RenovÃ¡vel
+618,Piaui,(m3),Biodiesel,2022,542900,RenovÃ¡vel
+619,Piaui,(mil m3),Etanol anidro e hidratado,2022,4503,RenovÃ¡vel
+620,Rio Grande do Norte,(m3),Biodiesel,2022,0,RenovÃ¡vel
+621,Rio Grande do Norte,(mil barris),LGN,2022,2480,FÃ³ssil
+622,Rio Grande do Norte,(mil barris),Petroleo,2022,119930,FÃ³ssil
+623,Rio Grande do Norte,(mil m3),Etanol anidro e hidratado,2022,9181,RenovÃ¡vel
+624,Rio Grande do Norte,(milhoes de m3),Gas Natural,2022,3370,FÃ³ssil
+625,Rio Grande do Sul,(m3),Biodiesel,2022,15259290,RenovÃ¡vel
+626,Rio Grande do Sul,(mil m3),Etanol anidro e hidratado,2022,1,RenovÃ¡vel
+627,Rio de Janeiro,(m3),Biodiesel,2022,1340930,RenovÃ¡vel
+628,Rio de Janeiro,(m3),Biometano,2022,369096850,RenovÃ¡vel
+629,Rio de Janeiro,(mil barris),LGN,2022,47740,FÃ³ssil
+630,Rio de Janeiro,(mil barris),Petroleo,2022,9324310,FÃ³ssil
+631,Rio de Janeiro,(mil m3),Etanol anidro e hidratado,2022,11017,RenovÃ¡vel
+632,Rio de Janeiro,(milhoes de m3),Gas Natural,2022,347765,FÃ³ssil
+633,Rondonia,(m3),Biodiesel,2022,185550,RenovÃ¡vel
+634,Rondonia,(mil m3),Etanol anidro e hidratado,2022,0,RenovÃ¡vel
+635,Santa Catarina,(m3),Biodiesel,2022,2833180,RenovÃ¡vel
+636,Sao Paulo,(m3),Biodiesel,2022,1860140,RenovÃ¡vel
+637,Sao Paulo,(m3),Biometano,2022,11097470,RenovÃ¡vel
+638,Sao Paulo,(mil barris),LGN,2022,191470,FÃ³ssil
+639,Sao Paulo,(mil barris),Petroleo,2022,935380,FÃ³ssil
+640,Sao Paulo,(mil m3),Etanol anidro e hidratado,2022,1191128,RenovÃ¡vel
+641,Sao Paulo,(milhoes de m3),Gas Natural,2022,59090,FÃ³ssil
+642,Sergipe,(mil barris),LGN,2022,0,FÃ³ssil
+643,Sergipe,(mil barris),Petroleo,2022,13640,FÃ³ssil
+644,Sergipe,(mil m3),Etanol anidro e hidratado,2022,7911,RenovÃ¡vel
+645,Sergipe,(milhoes de m3),Gas Natural,2022,91,FÃ³ssil
+646,Tocantins,(m3),Biodiesel,2022,946690,RenovÃ¡vel
+647,Tocantins,(mil m3),Etanol anidro e hidratado,2022,20958,RenovÃ¡vel
+648,Acre,(mil m3),Etanol anidro e hidratado,2023,0,RenovÃ¡vel
+649,Alagoas,(mil barris),LGN,2023,5470,FÃ³ssil
+650,Alagoas,(mil barris),Petroleo,2023,9080,FÃ³ssil
+651,Alagoas,(mil m3),Etanol anidro e hidratado,2023,51168,RenovÃ¡vel
+652,Alagoas,(milhoes de m3),Gas Natural,2023,4366,FÃ³ssil
+653,Amazonas,(mil barris),LGN,2023,50920,FÃ³ssil
+654,Amazonas,(mil barris),Petroleo,2023,45040,FÃ³ssil
+655,Amazonas,(mil m3),Etanol anidro e hidratado,2023,681,RenovÃ¡vel
+656,Amazonas,(milhoes de m3),Gas Natural,2023,52137,FÃ³ssil
+657,Bahia,(m3),Biodiesel,2023,5586710,RenovÃ¡vel
+658,Bahia,(mil barris),LGN,2023,2450,FÃ³ssil
+659,Bahia,(mil barris),Petroleo,2023,58580,FÃ³ssil
+660,Bahia,(mil m3),Etanol anidro e hidratado,2023,38181,RenovÃ¡vel
+661,Bahia,(milhoes de m3),Gas Natural,2023,15560,FÃ³ssil
+662,Ceara,(m3),Biodiesel,2023,0,RenovÃ¡vel
+663,Ceara,(m3),Biometano,2023,256577930,RenovÃ¡vel
+664,Ceara,(mil barris),LGN,2023,0,FÃ³ssil
+665,Ceara,(mil barris),Petroleo,2023,2650,FÃ³ssil
+666,Ceara,(mil m3),Etanol anidro e hidratado,2023,0,RenovÃ¡vel
+667,Ceara,(milhoes de m3),Gas Natural,2023,3,FÃ³ssil
+668,Espirito Santo,(mil barris),LGN,2023,33890,FÃ³ssil
+669,Espirito Santo,(mil barris),Petroleo,2023,619710,FÃ³ssil
+670,Espirito Santo,(mil m3),Etanol anidro e hidratado,2023,8819,RenovÃ¡vel
+671,Espirito Santo,(milhoes de m3),Gas Natural,2023,15262,FÃ³ssil
+672,Goias,(m3),Biodiesel,2023,11837180,RenovÃ¡vel
+673,Goias,(mil m3),Etanol anidro e hidratado,2023,545738,RenovÃ¡vel
+674,Maranhao,(mil barris),Petroleo,2023,270,FÃ³ssil
+675,Maranhao,(mil m3),Etanol anidro e hidratado,2023,16069,RenovÃ¡vel
+676,Maranhao,(milhoes de m3),Gas Natural,2023,8445,FÃ³ssil
+677,Mato Grosso,(m3),Biodiesel,2023,15530910,RenovÃ¡vel
+678,Mato Grosso,(mil m3),Etanol anidro e hidratado,2023,540265,RenovÃ¡vel
+679,Mato Grosso do Sul,(m3),Biodiesel,2023,2993180,RenovÃ¡vel
+680,Mato Grosso do Sul,(mil m3),Etanol anidro e hidratado,2023,380775,RenovÃ¡vel
+681,Minas Gerais,(m3),Biodiesel,2023,622030,RenovÃ¡vel
+682,Minas Gerais,(mil m3),Etanol anidro e hidratado,2023,33047,RenovÃ¡vel
+683,Para,(m3),Biodiesel,2023,1288180,RenovÃ¡vel
+684,Para,(mil m3),Etanol anidro e hidratado,2023,5413,RenovÃ¡vel
+685,Paraiba,(mil m3),Etanol anidro e hidratado,2023,41927,RenovÃ¡vel
+686,Parana,(m3),Biodiesel,2023,10706660,RenovÃ¡vel
+687,Parana,(mil m3),Etanol anidro e hidratado,2023,123122,RenovÃ¡vel
+688,Parana,(milhoes de m3),Gas Natural,2023,94,FÃ³ssil
+689,Pernambuco,(mil m3),Etanol anidro e hidratado,2023,32812,RenovÃ¡vel
+690,Piaui,(m3),Biodiesel,2023,660550,RenovÃ¡vel
+691,Piaui,(mil m3),Etanol anidro e hidratado,2023,4716,RenovÃ¡vel
+692,Rio Grande do Norte,(m3),Biodiesel,2023,0,RenovÃ¡vel
+693,Rio Grande do Norte,(mil barris),LGN,2023,1800,FÃ³ssil
+694,Rio Grande do Norte,(mil barris),Petroleo,2023,118190,FÃ³ssil
+695,Rio Grande do Norte,(mil m3),Etanol anidro e hidratado,2023,13828,RenovÃ¡vel
+696,Rio Grande do Norte,(milhoes de m3),Gas Natural,2023,3835,FÃ³ssil
+697,Rio Grande do Sul,(m3),Biodiesel,2023,16986340,RenovÃ¡vel
+698,Rio Grande do Sul,(mil m3),Etanol anidro e hidratado,2023,2,RenovÃ¡vel
+699,Rio de Janeiro,(m3),Biodiesel,2023,1488650,RenovÃ¡vel
+700,Rio de Janeiro,(m3),Biometano,2023,426100880,RenovÃ¡vel
+701,Rio de Janeiro,(mil barris),LGN,2023,48750,FÃ³ssil
+702,Rio de Janeiro,(mil barris),Petroleo,2023,10631800,FÃ³ssil
+703,Rio de Janeiro,(mil m3),Etanol anidro e hidratado,2023,8205,RenovÃ¡vel
+704,Rio de Janeiro,(milhoes de m3),Gas Natural,2023,395540,FÃ³ssil
+705,Rondonia,(m3),Biodiesel,2023,653830,RenovÃ¡vel
+706,Rondonia,(mil m3),Etanol anidro e hidratado,2023,0,RenovÃ¡vel
+707,Santa Catarina,(m3),Biodiesel,2023,3786720,RenovÃ¡vel
+708,Sao Paulo,(m3),Biodiesel,2023,2245120,RenovÃ¡vel
+709,Sao Paulo,(m3),Biometano,2023,66179110,RenovÃ¡vel
+710,Sao Paulo,(mil barris),LGN,2023,148490,FÃ³ssil
+711,Sao Paulo,(mil barris),Petroleo,2023,906080,FÃ³ssil
+712,Sao Paulo,(mil m3),Etanol anidro e hidratado,2023,1367476,RenovÃ¡vel
+713,Sao Paulo,(milhoes de m3),Gas Natural,2023,51338,FÃ³ssil
+714,Sergipe,(mil barris),LGN,2023,0,FÃ³ssil
+715,Sergipe,(mil barris),Petroleo,2023,24510,FÃ³ssil
+716,Sergipe,(mil m3),Etanol anidro e hidratado,2023,9089,RenovÃ¡vel
+717,Sergipe,(milhoes de m3),Gas Natural,2023,191,FÃ³ssil
+718,Tocantins,(m3),Biodiesel,2023,890520,RenovÃ¡vel
+719,Tocantins,(mil m3),Etanol anidro e hidratado,2023,19271,RenovÃ¡vel
